@@ -18,6 +18,9 @@ Un paquete está en esta lista porque:
 
 - Paquete [{presentes}](https://diegokoz.github.io/presentes/index.html). Herramientas para acceder a datos sobre las víctimas del terrorismo de Estado en Argentina. Autor/es: [Diego Kozlowski](https://github.com/DiegoKoz), [Demian Zayat](https://github.com/Demzayat) y [Antonio Vazquez Brust](https://github.com/bitsandbricks) 
 
+### Acceso y procesamiento de datos espaciales
+
 - Paquete [{RUMBA}](https://github.com/bitsandbricks/RUMBA) Un conjunto de herramientas para el análisis de la Región Urbana Metropolitana de Buenos Aires usando R. Autor/es: [Antonio Vazquez Brust](https://github.com/bitsandbricks)
 
+### Acceso y procesamiento de temáticas específicas
 - Universo de paquetes [{polArverse}](https://politicaargentina.github.io/polArverse/). Universo de paquetes para trabajar con herramientas y datos de Política Argentina desde R. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
