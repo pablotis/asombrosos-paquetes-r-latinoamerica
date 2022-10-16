@@ -30,3 +30,9 @@ Un paquete está en esta lista porque:
 - Universo de paquetes [{polArverse}](https://politicaargentina.github.io/polArverse/). Universo de paquetes para trabajar con herramientas y datos de Política Argentina desde R. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
 
 - Paquete [{agromet}](https://github.com/AgRoMeteorologiaINTA/agromet). Conjunto de funciones para calcular índices y estadísticos climáticos hidrológicos a partir de datos tidy. Incluye una función para graficar resultados georeferenciados y e información cartográfica. Autor/es: [Yanina Bellini Saibene](https://github.com/yabellini), [Elio Campitelli](https://github.com/eliocamp), [Paola Corrales](https://github.com/paocorrales), [Natalia Gattinoni](https://github.com/NatiGattinoni)
+
+<br>
+
+### Modelado
+
+- Paquete [{sknifedatar}](https://rafzamb.github.io/sknifedatar/). Una extensión  del ecosistema modeltime. Con este paquete vas a poder trabajar con modelado y visualización de múltiples series de tiempo. Autor/es: [Rafael Zambrano](https://github.com/rafzamb) y [Karina Bartolome](https://github.com/karbartolome)
