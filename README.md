@@ -36,3 +36,12 @@ Un paquete está en esta lista porque:
 ### Modelado
 
 - Paquete [{sknifedatar}](https://rafzamb.github.io/sknifedatar/). Una extensión  del ecosistema modeltime. Con este paquete vas a poder trabajar con modelado y visualización de múltiples series de tiempo. Autor/es: [Rafael Zambrano](https://github.com/rafzamb) y [Karina Bartolome](https://github.com/karbartolome)
+
+<br>
+
+### Visualización de datos
+
+- Paquete [{ggperiodic}](https://github.com/eliocamp/ggperiodic). ggperiodic is an attempt to solve the issue of plotting periodic data in ggplot2. It automatically augments your data to wrap it around to any arbitrary domain. Autor/es: [Elio Campitelli](https://github.com/eliocamp)
+- Paquete [{ggnewscale}]([https://github.com/eliocamp/ggperiodic](https://eliocamp.github.io/ggnewscale/)). Paquete que intenta hacer menos doloroso el uso de de múltiples escalas en `{ggplot2}`. Autor/es: [Elio Campitelli](https://github.com/eliocamp)
+
+
