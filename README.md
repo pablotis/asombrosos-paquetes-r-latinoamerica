@@ -12,11 +12,12 @@ Un paquete está en esta lista porque:
 
 ### Acceso y Procesamiento de fuentes de datos oficiales
 
-- Paquete [{eph}](https://holatam.github.io/eph/). Una caja de herramientas para el procesamiento de datos con la Encuesta Permanente de Hogares (EPH-INDEC). Autores: Diego Kozlo
-
+- Paquete [{eph}](https://holatam.github.io/eph/). Una caja de herramientas para el procesamiento de datos con la Encuesta Permanente de Hogares (EPH-INDEC). Autores: [Diego Kozlowski](https://github.com/DiegoKoz), [Pablo Tiscornia](https://github.com/pablotis), [Guido Weksler](https://github.com/Guidowe), [Natsumi Shokida](https://github.com/natsushok), [German Rosati](https://github.com/gefero/) y [Carolina Pradier](https://github.com/caropradier/)
+- Paquete [{ech}](https://calcita.github.io/ech/). Caja de herramientas para el procesamiento de la Encuesta Continua de Hogares de Uruguay del Instituto Nacional de Estadística (INE). Autores: [Gabriela Mathieu](https://github.com/calcita), [Richard Detomasi](https://github.com/RichDeto)
 - Paquete [{presentes}](https://diegokoz.github.io/presentes/index.html). Herramientas para acceder a datos sobre las víctimas del terrorismo de Estado en Argentina. Autor/es: [Diego Kozlowski](https://github.com/DiegoKoz), [Demian Zayat](https://github.com/Demzayat) y [Antonio Vazquez Brust](https://github.com/bitsandbricks) 
-
 - Paquete [{PortalHacienda}](https://github.com/fmgarciadiaz/PortalHacienda-CRAN). Un paquete de interfase a la API del Portal de Datos del Ministerio de Hacienda. Autor/es: [Fernando García Díaz](https://github.com/fmgarciadiaz)
+- Paquete [{geouy}](https://github.com/RichDeto/geouy). geouy is an R package that allows users to easily access official spatial data sets of Uruguay. Autor/es: [Richard Detomasi](https://github.com/RichDeto)
+
 
 <br>
 
@@ -28,7 +29,6 @@ Un paquete está en esta lista porque:
 
 ### Acceso y procesamiento de temáticas específicas
 - Universo de paquetes [{polArverse}](https://politicaargentina.github.io/polArverse/). Universo de paquetes para trabajar con herramientas y datos de Política Argentina desde R. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
-
 - Paquete [{agromet}](https://github.com/AgRoMeteorologiaINTA/agromet). Conjunto de funciones para calcular índices y estadísticos climáticos hidrológicos a partir de datos tidy. Incluye una función para graficar resultados georeferenciados y e información cartográfica. Autor/es: [Yanina Bellini Saibene](https://github.com/yabellini), [Elio Campitelli](https://github.com/eliocamp), [Paola Corrales](https://github.com/paocorrales), [Natalia Gattinoni](https://github.com/NatiGattinoni)
 
 <br>
@@ -45,3 +45,5 @@ Un paquete está en esta lista porque:
 - Paquete [{ggnewscale}]([https://github.com/eliocamp/ggperiodic](https://eliocamp.github.io/ggnewscale/)). Paquete que intenta hacer menos doloroso el uso de de múltiples escalas en `{ggplot2}`. Autor/es: [Elio Campitelli](https://github.com/eliocamp)
 
 
+---
+inspirado en el reposotirio [awesome-official-statistics-software](https://github.com/SNStatComp/awesome-official-statistics-software)
