@@ -44,6 +44,13 @@ Un paquete está en esta lista porque:
 - Paquete [{ggperiodic}](https://github.com/eliocamp/ggperiodic). ggperiodic is an attempt to solve the issue of plotting periodic data in ggplot2. It automatically augments your data to wrap it around to any arbitrary domain. Autor/es: [Elio Campitelli](https://github.com/eliocamp)
 - Paquete [{ggnewscale}]([https://github.com/eliocamp/ggperiodic](https://eliocamp.github.io/ggnewscale/)). Paquete que intenta hacer menos doloroso el uso de de múltiples escalas en `{ggplot2}`. Autor/es: [Elio Campitelli](https://github.com/eliocamp)
 
+<br>
+
+### Conjunto de datos
+
+- Paquete [{datos}](https://cienciadedatos.github.io/datos/). Este paquete provee la traducción al español de conjuntos de datos en inglés originalmente disponibles en otros paquetes de R. Los datos traducidos son los que se utilizan en los ejemplos del libro [R para Ciencia de Datos](https://es.r4ds.hadley.nz/), la versión en español de R for Data Science de Hadley Wickham & Garrett Grolemund. 
+Autor/es: [Riva Quiroga](https://github.com/rivaquiroga), [Edgar Ruiz](https://github.com/edgararuiz), [Mauricio Vargas](https://github.com/pachadotdev), [Mauro Lepore](https://github.com/maurolepore), [Rayna Harris](https://github.com/raynamharris) y [Daniela Vasquez](https://github.com/d4tagirl).
+
 
 ---
-inspirado en el reposotirio [awesome-official-statistics-software](https://github.com/SNStatComp/awesome-official-statistics-software)
+inspirado en el repositorio [awesome-official-statistics-software](https://github.com/SNStatComp/awesome-official-statistics-software)
