@@ -17,34 +17,24 @@ Un paquete está en esta lista porque:
 - Paquete [{presentes}](https://diegokoz.github.io/presentes/index.html). Herramientas para acceder a datos sobre las víctimas del terrorismo de Estado en Argentina. Autor/es: [Diego Kozlowski](https://github.com/DiegoKoz), [Demian Zayat](https://github.com/Demzayat) y [Antonio Vazquez Brust](https://github.com/bitsandbricks) 
 - Paquete [{PortalHacienda}](https://github.com/fmgarciadiaz/PortalHacienda-CRAN). Un paquete de interfase a la API del Portal de Datos del Ministerio de Hacienda. Autor/es: [Fernando García Díaz](https://github.com/fmgarciadiaz)
 - Paquete [{geouy}](https://github.com/RichDeto/geouy). geouy is an R package that allows users to easily access official spatial data sets of Uruguay. Autor/es: [Richard Detomasi](https://github.com/RichDeto)
-
-
-<br>
+- Paquete [{occupationcross}]([https://github.com/RichDeto/geouy](https://guidowe.github.io/occupationcross/). ocupationcross está diseñado para facilitar la compatibilización de los clasificadores nacionales de ocupaciones utilizados en encuestas y censos de distintos países. Autor/es: [Guido Weksler]([https://github.com/RichDeto](https://github.com/Guidowe) y [Facundo Lastra](https://github.com/marajadesantelmo)
 
 ### Acceso y procesamiento de datos espaciales
 
 - Paquete [{RUMBA}](https://github.com/bitsandbricks/RUMBA) Un conjunto de herramientas para el análisis de la Región Urbana Metropolitana de Buenos Aires usando R. Autor/es: [Antonio Vazquez Brust](https://github.com/bitsandbricks)
 
-<br>
-
 ### Acceso y procesamiento de temáticas específicas
 - Universo de paquetes [{polArverse}](https://politicaargentina.github.io/polArverse/). Universo de paquetes para trabajar con herramientas y datos de Política Argentina desde R. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
 - Paquete [{agromet}](https://github.com/AgRoMeteorologiaINTA/agromet). Conjunto de funciones para calcular índices y estadísticos climáticos hidrológicos a partir de datos tidy. Incluye una función para graficar resultados georeferenciados y e información cartográfica. Autor/es: [Yanina Bellini Saibene](https://github.com/yabellini), [Elio Campitelli](https://github.com/eliocamp), [Paola Corrales](https://github.com/paocorrales), [Natalia Gattinoni](https://github.com/NatiGattinoni)
-
-<br>
 
 ### Modelado
 
 - Paquete [{sknifedatar}](https://rafzamb.github.io/sknifedatar/). Una extensión  del ecosistema modeltime. Con este paquete vas a poder trabajar con modelado y visualización de múltiples series de tiempo. Autor/es: [Rafael Zambrano](https://github.com/rafzamb) y [Karina Bartolome](https://github.com/karbartolome)
 
-<br>
-
 ### Visualización de datos
 
 - Paquete [{ggperiodic}](https://github.com/eliocamp/ggperiodic). ggperiodic is an attempt to solve the issue of plotting periodic data in ggplot2. It automatically augments your data to wrap it around to any arbitrary domain. Autor/es: [Elio Campitelli](https://github.com/eliocamp)
 - Paquete [{ggnewscale}]([https://github.com/eliocamp/ggperiodic](https://eliocamp.github.io/ggnewscale/)). Paquete que intenta hacer menos doloroso el uso de de múltiples escalas en `{ggplot2}`. Autor/es: [Elio Campitelli](https://github.com/eliocamp)
-
-<br>
 
 ### Conjunto de datos
 
