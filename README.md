@@ -47,6 +47,10 @@ Autor/es: [Riva Quiroga](https://github.com/rivaquiroga), [Edgar Ruiz](https://g
 
 - Paquete [{metamer}](https://eliocamp.github.io/metamer/#metamer). Implementa el algoritmo propuesto por Matejka & Fitzmaurice (2017) para crear metamers (conjuntos de datos con propiedades estadísticas idénticas pero gráficos muy diferentes) con un esquema de recocido derivado de de Vicente et al. (2003). Autor/es: [Elio Campitelli](https://github.com/eliocamp)
 
+- Paquete [{klassets}](https://jkunst.com/klassets/). Es una colección de funciones para simular conjuntos de datos para: enseñar cómo funcionan algunos modelos estadísticos y algoritmos de aprendizaje automático, como también ilustrar algunos hechos particulares como la heteroscedasticidad o la paradoja de Simpson e incluso, comparar las predicciones entre modelos, por ejemplo regresión logística vs árbol de decisión vs k-Nearest Neighbours.
+Autor/es: [Joshua Kunst]( https://github.com/jbkunst) 
+
+
 
 ---
 Inspirado en el repositorio [awesome-official-statistics-software](https://github.com/SNStatComp/awesome-official-statistics-software)
