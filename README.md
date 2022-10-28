@@ -43,5 +43,14 @@ Un paquete está en esta lista porque:
 Autor/es: [Riva Quiroga](https://github.com/rivaquiroga), [Edgar Ruiz](https://github.com/edgararuiz), [Mauricio Vargas](https://github.com/pachadotdev), [Mauro Lepore](https://github.com/maurolepore), [Rayna Harris](https://github.com/raynamharris) y [Daniela Vasquez](https://github.com/d4tagirl).
 - Paquete [{guaguas}](https://rivaquiroga.github.io/guaguas/index.html). Datos sobre nombres de guaguas (bebés) registrados en Chile entre 1920 y 2021, según el Servicio de Registro Civil e Identificación. Incluye solo los que fueron inscritos como primer nombre. Este dataset permite explorar tendencias en los nombres registrados durante el último siglo y puede utilizarse como fuente de ejemplos para aprender/enseñar a trabajar con datos. Autor/es: [Riva Quiroga](https://github.com/rivaquiroga)
 
+### Enseñanza de la estadística
+
+- Paquete [{metamer}](https://eliocamp.github.io/metamer/#metamer). Implementa el algoritmo propuesto por Matejka & Fitzmaurice (2017) para crear metamers (conjuntos de datos con propiedades estadísticas idénticas pero gráficos muy diferentes) con un esquema de recocido derivado de de Vicente et al. (2003). Autor/es: [Elio Campitelli](https://github.com/eliocamp)
+
+- Paquete [{klassets}](https://jkunst.com/klassets/). Es una colección de funciones para simular conjuntos de datos para: enseñar cómo funcionan algunos modelos estadísticos y algoritmos de aprendizaje automático, como también ilustrar algunos hechos particulares como la heteroscedasticidad o la paradoja de Simpson e incluso, comparar las predicciones entre modelos, por ejemplo regresión logística vs árbol de decisión vs k-Nearest Neighbours.
+Autor/es: [Joshua Kunst]( https://github.com/jbkunst) 
+
+
+
 ---
 Inspirado en el repositorio [awesome-official-statistics-software](https://github.com/SNStatComp/awesome-official-statistics-software)
