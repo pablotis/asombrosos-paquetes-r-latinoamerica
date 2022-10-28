@@ -45,7 +45,7 @@ Autor/es: [Riva Quiroga](https://github.com/rivaquiroga), [Edgar Ruiz](https://g
 
 ### Enseñanza de la estadística
 
-- Paquete [{metamer}](https://eliocamp.github.io/metamer/#metamer). Paquete que implementa el algoritmo propuesto por Matejka & Fitzmaurice (2017) para crear metamers (conjuntos de datos con propiedades estadísticas idénticas pero gráficos muy diferentes) con un esquema de recocido derivado de de Vicente et al. (2003). Autor/es: [Elio Campitelli](https://github.com/eliocamp)
+- Paquete [{metamer}](https://eliocamp.github.io/metamer/#metamer). Implementa el algoritmo propuesto por Matejka & Fitzmaurice (2017) para crear metamers (conjuntos de datos con propiedades estadísticas idénticas pero gráficos muy diferentes) con un esquema de recocido derivado de de Vicente et al. (2003). Autor/es: [Elio Campitelli](https://github.com/eliocamp)
 
 
 ---
