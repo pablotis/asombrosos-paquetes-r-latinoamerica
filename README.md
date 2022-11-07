@@ -1,13 +1,16 @@
-# Un lista de paquetes desarrollados en R por personas de Latinoamérica para el acceso, procesamiento, visualización y comunicación de datos:
+# Asombrosos paquetes de R en Latinoamérica
 
-Un paquete está en esta lista porque:
+Un lista de paquetes desarrollados en R por personas de Latinoamérica para el acceso, procesamiento, visualización y comunicación de datos.
+
+## Un paquete está en esta lista porque:
 
 - Es de código abierto, licencia libre y disponible para su descarga.
 
 - Es producido por alguien de Latinoamérica
 
+<br>
 
-Las [contribuciones](#propuesta-de-paquetes) son bienvenidas. 
+¿Tenés un paquete y lo querés sumar al repositorio? ¿Conocés un paquete desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de [contribuciones](#propuesta-de-paquetes), todas son más que bienvenidas. 
 
 <br>
 
