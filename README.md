@@ -6,6 +6,9 @@ Un paquete está en esta lista porque:
 
 - Es producido por alguien de Latinoamérica
 
+
+Las [contribuciones](#propuesta-de-paquetes) son bienvenidas. 
+
 <br>
 
 ## Temáticas (en función del objetivo principal del paquete)
@@ -50,7 +53,29 @@ Autor/es: [Riva Quiroga](https://github.com/rivaquiroga), [Edgar Ruiz](https://g
 - Paquete [{klassets}](https://jkunst.com/klassets/). Es una colección de funciones para simular conjuntos de datos para: enseñar cómo funcionan algunos modelos estadísticos y algoritmos de aprendizaje automático, como también ilustrar algunos hechos particulares como la heteroscedasticidad o la paradoja de Simpson e incluso, comparar las predicciones entre modelos, por ejemplo regresión logística vs árbol de decisión vs k-Nearest Neighbours.
 Autor/es: [Joshua Kunst]( https://github.com/jbkunst) 
 
+<br>
 
+## Propuesta de paquetes
+
+Si quieres proponer un paquete para que lo incluyamos en el repositorio, necesitamos los siguientes datos:
+* nombre del paquete
+* link a la documentación
+* breve descripción
+* autor/es
+
+Con esta información, podremos revisarlo y analizar si lo incluimos.
+
+### ¿Cómo contribuir? 
+
+Todas las personas son bienvenidas a contribuir, independientemente de si recién están empezando a usar R o ya tienen más experiencia. Estas son las diferentes maneras de contribuir:
+* Abre un Pull Request (podes aprender cómo hacerlo con esta guía gratuita [¿Cómo contribuir a un proyecto en GitHub?](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+* Añade un nuevo [issue](https://github.com/pablotis/asombrosos-paquetes-r-latinoamerica/issues) con la información del paquete (necesitaras una cuenta de github).
+* Envia un correo electrónico a pablotisco@gmail.com, andrea.gomezv11@gmail.com o patricia.andrea.loto@gmail.com.
+
+## Licencia
+
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
+Este trabajo tiene una licencia [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ---
 Inspirado en el repositorio [awesome-official-statistics-software](https://github.com/SNStatComp/awesome-official-statistics-software)
