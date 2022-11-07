@@ -7,7 +7,7 @@ Un paquete está en esta lista porque:
 - Es producido por alguien de Latinoamérica
 
 
-Las [contribuciones](## Propuesta de paquetes) son bienvenidas. 
+Las [contribuciones](#propuesta-de-paquetes) son bienvenidas. 
 
 <br>
 
