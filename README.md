@@ -8,6 +8,7 @@ Un paquete está en esta lista porque:
 
 
 Las [contribuciones](### ¿Cómo contribuir?) son bienvenidas. 
+
 <br>
 
 ## Temáticas (en función del objetivo principal del paquete)
@@ -53,6 +54,7 @@ Autor/es: [Riva Quiroga](https://github.com/rivaquiroga), [Edgar Ruiz](https://g
 Autor/es: [Joshua Kunst]( https://github.com/jbkunst) 
 
 <br>
+
 ## Propuesta de paquetes
 
 Si quieres proponer un paquete para que lo incluyamos en el repositorio, necesitamos los siguientes datos:
@@ -70,6 +72,10 @@ Todas las personas son bienvenidas a contribuir, independientemente de si recié
 * Añade un nuevo [issue](https://github.com/pablotis/asombrosos-paquetes-r-latinoamerica/issues) con la información del paquete (necesitaras una cuenta de github)
 * Envia un correo electrónico a pablotisco@gmail.com, andrea.gomezv11@gmail.com o patricia.andrea.loto@gmail.com.
 
+## Licencia
+
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
+Este trabajo tiene una licencia [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ---
 Inspirado en el repositorio [awesome-official-statistics-software](https://github.com/SNStatComp/awesome-official-statistics-software)
