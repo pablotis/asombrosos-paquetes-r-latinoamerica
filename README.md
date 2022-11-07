@@ -7,7 +7,7 @@ Un paquete está en esta lista porque:
 - Es producido por alguien de Latinoamérica
 
 
-Las [contribuciones](### ¿Cómo contribuir?) son bienvenidas. 
+Las [contribuciones](## Propuesta de paquetes) son bienvenidas. 
 
 <br>
 
@@ -68,8 +68,8 @@ Con esta información, podremos revisarlo y analizar si lo incluimos.
 ### ¿Cómo contribuir? 
 
 Todas las personas son bienvenidas a contribuir, independientemente de si recién están empezando a usar R o ya tienen más experiencia. Estas son las diferentes maneras de contribuir:
-* Abre un Pull Request (Podes aprender cómo hacerlo con esta guía gratuita [¿Cómo contribuir a un proyecto en GitHub?](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
-* Añade un nuevo [issue](https://github.com/pablotis/asombrosos-paquetes-r-latinoamerica/issues) con la información del paquete (necesitaras una cuenta de github)
+* Abre un Pull Request (podes aprender cómo hacerlo con esta guía gratuita [¿Cómo contribuir a un proyecto en GitHub?](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+* Añade un nuevo [issue](https://github.com/pablotis/asombrosos-paquetes-r-latinoamerica/issues) con la información del paquete (necesitaras una cuenta de github).
 * Envia un correo electrónico a pablotisco@gmail.com, andrea.gomezv11@gmail.com o patricia.andrea.loto@gmail.com.
 
 ## Licencia
