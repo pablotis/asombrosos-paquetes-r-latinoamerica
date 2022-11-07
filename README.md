@@ -7,7 +7,7 @@ Un paquete está en esta lista porque:
 - Es producido por alguien de Latinoamérica
 
 
-Las [contribuciones](## Propuesta de paquetes) son bienvenidas. 
+Las [contribuciones](### ¿Cómo contribuir?) son bienvenidas. 
 <br>
 
 ## Temáticas (en función del objetivo principal del paquete)
@@ -52,7 +52,7 @@ Autor/es: [Riva Quiroga](https://github.com/rivaquiroga), [Edgar Ruiz](https://g
 - Paquete [{klassets}](https://jkunst.com/klassets/). Es una colección de funciones para simular conjuntos de datos para: enseñar cómo funcionan algunos modelos estadísticos y algoritmos de aprendizaje automático, como también ilustrar algunos hechos particulares como la heteroscedasticidad o la paradoja de Simpson e incluso, comparar las predicciones entre modelos, por ejemplo regresión logística vs árbol de decisión vs k-Nearest Neighbours.
 Autor/es: [Joshua Kunst]( https://github.com/jbkunst) 
 
----
+<br>
 ## Propuesta de paquetes
 
 Si quieres proponer un paquete para que lo incluyamos en el repositorio, necesitamos los siguientes datos:
