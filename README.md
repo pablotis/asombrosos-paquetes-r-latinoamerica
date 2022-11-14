@@ -29,7 +29,6 @@ Un lista de paquetes desarrollados en R por personas de Latinoamérica para el a
 - Paquete [{presentes}](https://diegokoz.github.io/presentes/index.html). Herramientas para acceder a datos sobre las víctimas del terrorismo de Estado en Argentina. Autor/es: [Diego Kozlowski](https://github.com/DiegoKoz), [Demian Zayat](https://github.com/Demzayat) y [Antonio Vazquez Brust](https://github.com/bitsandbricks) 
 
 
-
 ### Acceso y procesamiento de datos espaciales
 - Paquete [{chilemapas}](https://github.com/pachadotdev/chilemapas/). Mapas terrestres de Chile con topologias simplificadas. Autor/es: [M. Vargas](https://github.com/pachadotdev)
 - Paquete [{geoAr}](https://github.com/PoliticaArgentina/geoAr). Argentina's Spatial Data Toolbox. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
