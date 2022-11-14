@@ -24,7 +24,7 @@ Un lista de paquetes desarrollados en R por personas de Latinoamérica para el a
 - Paquete [{presentes}](https://diegokoz.github.io/presentes/index.html). Herramientas para acceder a datos sobre las víctimas del terrorismo de Estado en Argentina. Autor/es: [Diego Kozlowski](https://github.com/DiegoKoz), [Demian Zayat](https://github.com/Demzayat) y [Antonio Vazquez Brust](https://github.com/bitsandbricks) 
 - Paquete [{PortalHacienda}](https://github.com/fmgarciadiaz/PortalHacienda-CRAN). Un paquete de interfase a la API del Portal de Datos del Ministerio de Hacienda. Autor/es: [Fernando García Díaz](https://github.com/fmgarciadiaz)
 - Paquete [{geouy}](https://github.com/RichDeto/geouy). geouy is an R package that allows users to easily access official spatial data sets of Uruguay. Autor/es: [Richard Detomasi](https://github.com/RichDeto)
-- Paquete [{occupationcross}](https://guidowe.github.io/occupationcross/). ocupationcross está diseñado para facilitar la compatibilización de los clasificadores nacionales de ocupaciones utilizados en encuestas y censos de distintos países. Autor/es: [Guido Weksler]([https://github.com/RichDeto](https://github.com/Guidowe) y [Facundo Lastra](https://github.com/marajadesantelmo)
+- Paquete [{occupationcross}](https://guidowe.github.io/occupationcross/). ocupationcross está diseñado para facilitar la compatibilización de los clasificadores nacionales de ocupaciones utilizados en encuestas y censos de distintos países. Autor/es: [Guido Weksler](https://github.com/Guidowe) y [Facundo Lastra](https://github.com/marajadesantelmo)
 
 ### Acceso y procesamiento de datos espaciales
 
