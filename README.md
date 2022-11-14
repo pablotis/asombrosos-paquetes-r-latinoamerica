@@ -33,6 +33,7 @@ Un lista de paquetes desarrollados en R por personas de Latinoamérica para el a
 ### Acceso y procesamiento de temáticas específicas
 - Universo de paquetes [{polArverse}](https://politicaargentina.github.io/polArverse/). Universo de paquetes para trabajar con herramientas y datos de Política Argentina desde R. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
 - Paquete [{agromet}](https://github.com/AgRoMeteorologiaINTA/agromet). Conjunto de funciones para calcular índices y estadísticos climáticos hidrológicos a partir de datos tidy. Incluye una función para graficar resultados georeferenciados y e información cartográfica. Autor/es: [Yanina Bellini Saibene](https://github.com/yabellini), [Elio Campitelli](https://github.com/eliocamp), [Paola Corrales](https://github.com/paocorrales), [Natalia Gattinoni](https://github.com/NatiGattinoni)
+- Paquete [{metR}](https://eliocamp.github.io/metR/). Funciones útiles y extensiones de ggplot2 para manejar y graficar datos meteorológicos. Autor/es: [Elio Campitelli](https://github.com/eliocamp)
 
 ### Modelado
 
@@ -41,7 +42,7 @@ Un lista de paquetes desarrollados en R por personas de Latinoamérica para el a
 ### Visualización de datos
 
 - Paquete [{ggperiodic}](https://github.com/eliocamp/ggperiodic). ggperiodic is an attempt to solve the issue of plotting periodic data in ggplot2. It automatically augments your data to wrap it around to any arbitrary domain. Autor/es: [Elio Campitelli](https://github.com/eliocamp)
-- Paquete [{ggnewscale}]([https://github.com/eliocamp/ggperiodic](https://eliocamp.github.io/ggnewscale/)). Paquete que intenta hacer menos doloroso el uso de de múltiples escalas en `{ggplot2}`. Autor/es: [Elio Campitelli](https://github.com/eliocamp)
+- Paquete [{ggnewscale}](https://eliocamp.github.io/ggnewscale/). Paquete que intenta hacer menos doloroso el uso de de múltiples escalas en `{ggplot2}`. Autor/es: [Elio Campitelli](https://github.com/eliocamp)
 
 ### Conjunto de datos
 
