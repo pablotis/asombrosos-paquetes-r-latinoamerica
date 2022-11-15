@@ -18,21 +18,28 @@ Un lista de paquetes desarrollados en R por personas de Latinoamérica para el a
 
 ### Acceso y Procesamiento de fuentes de datos oficiales
 
+- Paquete [{discursAr}](https://github.com/PoliticaArgentina/discursAr/). Argentina´s Presidential Speeches Toolbox. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
+- Paquete [{electorAr}](https://github.com/PoliticaArgentina/electorAr/). Toolbox for Argentina's Electoral Data. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
 - Paquete [{eph}](https://holatam.github.io/eph/). Una caja de herramientas para el procesamiento de datos con la Encuesta Permanente de Hogares (EPH-INDEC). Autores: [Diego Kozlowski](https://github.com/DiegoKoz), [Pablo Tiscornia](https://github.com/pablotis), [Guido Weksler](https://github.com/Guidowe), [Natsumi Shokida](https://github.com/natsushok), [German Rosati](https://github.com/gefero/) y [Carolina Pradier](https://github.com/caropradier/)
 - Paquete [{ech}](https://calcita.github.io/ech/). Caja de herramientas para el procesamiento de la Encuesta Continua de Hogares de Uruguay del Instituto Nacional de Estadística (INE). Autores: [Gabriela Mathieu](https://github.com/calcita), [Richard Detomasi](https://github.com/RichDeto)
 - Paquete [{casen}](https://github.com/pachadotdev/casen). Proporciona un conjunto de funciones para realizar estadistica descriptiva e inferencia con el disenio complejo de la encuesta CASEN. Autor/es: [M. Vargas](https://github.com/pachadotdev), [Kirill Müller]([https://github.com/RichDeto](https://github.com/krlmlr))
-- Paquete [{presentes}](https://diegokoz.github.io/presentes/index.html). Herramientas para acceder a datos sobre las víctimas del terrorismo de Estado en Argentina. Autor/es: [Diego Kozlowski](https://github.com/DiegoKoz), [Demian Zayat](https://github.com/Demzayat) y [Antonio Vazquez Brust](https://github.com/bitsandbricks) 
+- Paquete [{legislAr}](https://github.com/PoliticaArgentina/legislAr). Argentina Legislative Data and Tools. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
+- Paquete [{occupationcross}](https://guidowe.github.io/occupationcross/). ocupationcross está diseñado para facilitar la compatibilización de los clasificadores nacionales de ocupaciones utilizados en encuestas y censos de distintos países. Autor/es: [Guido Weksler]([https://github.com/RichDeto](https://github.com/Guidowe) y [Facundo Lastra](https://github.com/marajadesantelmo)
 - Paquete [{PortalHacienda}](https://github.com/fmgarciadiaz/PortalHacienda-CRAN). Un paquete de interfase a la API del Portal de Datos del Ministerio de Hacienda. Autor/es: [Fernando García Díaz](https://github.com/fmgarciadiaz)
-- Paquete [{geouy}](https://github.com/RichDeto/geouy). geouy is an R package that allows users to easily access official spatial data sets of Uruguay. Autor/es: [Richard Detomasi](https://github.com/RichDeto)
-- Paquete [{occupationcross}](https://guidowe.github.io/occupationcross/). ocupationcross está diseñado para facilitar la compatibilización de los clasificadores nacionales de ocupaciones utilizados en encuestas y censos de distintos países. Autor/es: [Guido Weksler](https://github.com/Guidowe) y [Facundo Lastra](https://github.com/marajadesantelmo)
+- Paquete [{presentes}](https://diegokoz.github.io/presentes/index.html). Herramientas para acceder a datos sobre las víctimas del terrorismo de Estado en Argentina. Autor/es: [Diego Kozlowski](https://github.com/DiegoKoz), [Demian Zayat](https://github.com/Demzayat) y [Antonio Vazquez Brust](https://github.com/bitsandbricks) 
+
 
 ### Acceso y procesamiento de datos espaciales
-
+- Paquete [{chilemapas}](https://github.com/pachadotdev/chilemapas/). Mapas terrestres de Chile con topologias simplificadas. Autor/es: [M. Vargas](https://github.com/pachadotdev)
+- Paquete [{geoAr}](https://github.com/PoliticaArgentina/geoAr). Argentina's Spatial Data Toolbox. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
+- Paquete [{geobr}](https://ipeagit.github.io/geobr/). Download Official Spatial Data Sets of Brazil. Autor/es: [Rafael H M Pereira](https://github.com/rafapereirabr)
+- Paquete [{geouy}](https://github.com/RichDeto/geouy). geouy is an R package that allows users to easily access official spatial data sets of Uruguay. Autor/es: [Richard Detomasi](https://github.com/RichDeto)
 - Paquete [{RUMBA}](https://github.com/bitsandbricks/RUMBA) Un conjunto de herramientas para el análisis de la Región Urbana Metropolitana de Buenos Aires usando R. Autor/es: [Antonio Vazquez Brust](https://github.com/bitsandbricks)
 
 ### Acceso y procesamiento de temáticas específicas
-- Universo de paquetes [{polArverse}](https://politicaargentina.github.io/polArverse/). Universo de paquetes para trabajar con herramientas y datos de Política Argentina desde R. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
 - Paquete [{agromet}](https://github.com/AgRoMeteorologiaINTA/agromet). Conjunto de funciones para calcular índices y estadísticos climáticos hidrológicos a partir de datos tidy. Incluye una función para graficar resultados georeferenciados y e información cartográfica. Autor/es: [Yanina Bellini Saibene](https://github.com/yabellini), [Elio Campitelli](https://github.com/eliocamp), [Paola Corrales](https://github.com/paocorrales), [Natalia Gattinoni](https://github.com/NatiGattinoni)
+- Paquete [{opinAr}](https://github.com/PoliticaArgentina/opinAr). Argentina´s Public Opinion Toolbox. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
+- Universo de paquetes [{polArverse}](https://politicaargentina.github.io/polArverse/). Universo de paquetes para trabajar con herramientas y datos de Política Argentina desde R. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
 - Paquete [{metR}](https://eliocamp.github.io/metR/). Funciones útiles y extensiones de ggplot2 para manejar y graficar datos meteorológicos. Autor/es: [Elio Campitelli](https://github.com/eliocamp)
 
 ### Modelado
