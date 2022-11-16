@@ -81,6 +81,8 @@ Un lista de paquetes desarrollados en R por personas de Latinoamérica para el a
 
 - <img src="https://eliocamp.github.io/ggnewscale/reference/figures/logo.png" style="width: 3%;" /> [{ggnewscale}](https://eliocamp.github.io/ggnewscale/). Paquete que intenta hacer menos doloroso el uso de de múltiples escalas en `{ggplot2}`. Autor/es: [Elio Campitelli](https://github.com/eliocamp)
 
+- <img src="https://raw.githubusercontent.com/PoliticaArgentina/data_warehouse/master/hex/polArViz.png" style="width: 3%;" />   [{polArViz}]([https://politicaargentina.github.io/polArverse/](https://github.com/PoliticaArgentina/polArViz)). Librería auxiliar del polArverse que contiene funciones para visualizaciones que permiten explorar radpidamente la variedad de datos del universo político de Argentina. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
+
 
 ### Conjunto de datos
 
