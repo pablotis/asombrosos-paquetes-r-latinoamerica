@@ -103,6 +103,7 @@ Si quieres proponer un paquete para que lo incluyamos en el repositorio, necesit
 * link a la documentación
 * breve descripción
 * autor/es
+* hexlogo (optativo)
 
 Con esta información, podremos revisarlo y analizar si lo incluimos.
 
