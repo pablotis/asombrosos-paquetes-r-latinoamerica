@@ -18,19 +18,20 @@ Un lista de paquetes desarrollados en R por personas de Latinoamérica para el a
 
 ### Acceso y Procesamiento de fuentes de datos oficiales
 
+
 - [{calidad}](https://inesscc.github.io/calidad/articles/tutorial.html). Proporciona indicadores de calidad para estimaciones provenientes de muestreos complejos, con lo cual se busca contribuir a un adecuado uso de los datos publicados por las oficinas de estadísticas de la región.En este momento el paquete implementa los estándares publicados por [CEPAL](https://repositorio.cepal.org/bitstream/handle/11362/45681/1/S2000293_es.pdf) e [INE Chile](https://www.ine.cl/docs/default-source/institucionalidad/buenas-pr%C3%A1cticas/clasificaciones-y-estandares/est%C3%A1ndar-evaluaci%C3%B3n-de-calidad-de-estimaciones-publicaci%C3%B3n-27022020.pdf). Adicionalmente, los y las usuarios pueden desarrolllar sus propios estándares utilizando uno o más de los 7 indicadores de calidad incorporados en el paquete. Autor/es: Klaus Lehmann, Ricardo Pizarro y Ignacio Agloni.
 
+- [{casen}](https://github.com/pachadotdev/casen). Proporciona un conjunto de funciones para realizar estadistica descriptiva e inferencia con el disenio complejo de la encuesta CASEN. Autor/es: [M. Vargas](https://github.com/pachadotdev), [Kirill Müller]([https://github.com/RichDeto](https://github.com/krlmlr))
+
 - <img src="https://github.com/politicaargentina/data_warehouse/raw/master/hex/discursAr.png?raw=true" style="width: 3%;" /> [{discursAr}](https://github.com/PoliticaArgentina/discursAr/). Argentina´s Presidential Speeches Toolbox. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
+
+- <img src="https://calcita.github.io/ech/reference/figures/ech_logo.png" style="width: 3%;" /> [{ech}](https://calcita.github.io/ech/). Caja de herramientas para el procesamiento de la Encuesta Continua de Hogares de Uruguay del Instituto Nacional de Estadística (INE). Autores: [Gabriela Mathieu](https://github.com/calcita), [Richard Detomasi](https://github.com/RichDeto)
+
+- <img src="https://github.com/PoliticaArgentina/electorAr/raw/main/man/figures/logo.png" style="width: 3%;" /> Paquete [{electorAr}](https://github.com/PoliticaArgentina/electorAr/). Toolbox for Argentina's Electoral Data. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
 
 - <img src="https://github.com/PoliticaArgentina/electorAr/raw/main/man/figures/logo.png" style="width: 3%;" /> [{electorAr}](https://github.com/PoliticaArgentina/electorAr/). Toolbox for Argentina's Electoral Data. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
 
 - <img src="https://github.com/holatam/eph/raw/master/man/figures/logo.png" style="width: 3%;" /> [{eph}](https://holatam.github.io/eph/). Una caja de herramientas para el procesamiento de datos con la Encuesta Permanente de Hogares (EPH-INDEC). Autores: [Diego Kozlowski](https://github.com/DiegoKoz), [Pablo Tiscornia](https://github.com/pablotis), [Guido Weksler](https://github.com/Guidowe), [Natsumi Shokida](https://github.com/natsushok), [German Rosati](https://github.com/gefero/) y [Carolina Pradier](https://github.com/caropradier/)
-
-- <img src="https://calcita.github.io/ech/reference/figures/ech_logo.png" style="width: 3%;" /> [{ech}](https://calcita.github.io/ech/). Caja de herramientas para el procesamiento de la Encuesta Continua de Hogares de Uruguay del Instituto Nacional de Estadística (INE). Autores: [Gabriela Mathieu](https://github.com/calcita), [Richard Detomasi](https://github.com/RichDeto)
-
-- [{casen}](https://github.com/pachadotdev/casen). Proporciona un conjunto de funciones para realizar estadistica descriptiva e inferencia con el disenio complejo de la encuesta CASEN. Autor/es: [M. Vargas](https://github.com/pachadotdev), [Kirill Müller]([https://github.com/RichDeto](https://github.com/krlmlr))
-
-- <img src="https://github.com/PoliticaArgentina/legislAr/raw/main/man/figures/logo.png" style="width: 3%;" /> [{legislAr}](https://github.com/PoliticaArgentina/legislAr). Argentina Legislative Data and Tools. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
 
 - [{occupationcross}](https://guidowe.github.io/occupationcross/). ocupationcross está diseñado para facilitar la compatibilización de los clasificadores nacionales de ocupaciones utilizados en encuestas y censos de distintos países. Autor/es: [Guido Weksler]([https://github.com/RichDeto](https://github.com/Guidowe) y [Facundo Lastra](https://github.com/marajadesantelmo)
 
