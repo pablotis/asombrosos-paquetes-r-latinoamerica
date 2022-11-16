@@ -64,7 +64,7 @@ Un lista de paquetes desarrollados en R por personas de Latinoamérica para el a
 
 ### Tratamiento de datos
 
-- <img src="https://github.com/luisDVA/unheadr/raw/master/man/figures/logosmall.png" style="width: 3%;" /> [{unheadr}](https://github.com/luisDVA/unheadr). El objetivo de `unheadr` es ayudar a limpiar datos cuando tiene subencabezados incrustados, o cuando los valores se ajustan en varias filas.
+- <img src="https://github.com/luisDVA/unheadr/raw/master/man/figures/logosmall.png" style="width: 3%;" />   [{unheadr}](https://github.com/luisDVA/unheadr). El objetivo de `unheadr` es ayudar a limpiar datos cuando tiene subencabezados incrustados, o cuando los valores se ajustan en varias filas. Autor/es: [Luis Verde Arregoitia](https://github.com/luisDVA)
 
 
 ### Modelado
