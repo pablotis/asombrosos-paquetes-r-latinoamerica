@@ -18,6 +18,8 @@ Un lista de paquetes desarrollados en R por personas de Latinoamérica para el a
 
 ### Acceso y Procesamiento de fuentes de datos oficiales
 
+- [{calidad}](https://inesscc.github.io/calidad/articles/tutorial.html). Proporciona indicadores de calidad para estimaciones provenientes de muestreos complejos, con lo cual se busca contribuir a un adecuado uso de los datos publicados por las oficinas de estadísticas de la región.En este momento el paquete implementa los estándares publicados por [CEPAL](https://repositorio.cepal.org/bitstream/handle/11362/45681/1/S2000293_es.pdf) e [INE Chile](https://www.ine.cl/docs/default-source/institucionalidad/buenas-pr%C3%A1cticas/clasificaciones-y-estandares/est%C3%A1ndar-evaluaci%C3%B3n-de-calidad-de-estimaciones-publicaci%C3%B3n-27022020.pdf). Adicionalmente, los y las usuarios pueden desarrolllar sus propios estándares utilizando uno o más de los 7 indicadores de calidad incorporados en el paquete. Autor/es: Klaus Lehmann, Ricardo Pizarro y Ignacio Agloni.
+
 - <img src="https://github.com/politicaargentina/data_warehouse/raw/master/hex/discursAr.png?raw=true" style="width: 3%;" /> [{discursAr}](https://github.com/PoliticaArgentina/discursAr/). Argentina´s Presidential Speeches Toolbox. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
 
 - <img src="https://github.com/PoliticaArgentina/electorAr/raw/main/man/figures/logo.png" style="width: 3%;" /> [{electorAr}](https://github.com/PoliticaArgentina/electorAr/). Toolbox for Argentina's Electoral Data. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
