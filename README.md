@@ -18,19 +18,19 @@ Un lista de paquetes desarrollados en R por personas de Latinoamérica para el a
 
 ### Acceso y Procesamiento de fuentes de datos oficiales
 
+- Paquete [{casen}](https://github.com/pachadotdev/casen). Proporciona un conjunto de funciones para realizar estadistica descriptiva e inferencia con el disenio complejo de la encuesta CASEN. Autor/es: [M. Vargas](https://github.com/pachadotdev), [Kirill Müller]([https://github.com/RichDeto](https://github.com/krlmlr))
+
 - <img src="https://github.com/politicaargentina/data_warehouse/raw/master/hex/discursAr.png?raw=true" style="width: 3%;" /> Paquete [{discursAr}](https://github.com/PoliticaArgentina/discursAr/). Argentina´s Presidential Speeches Toolbox. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
+
+- <img src="https://calcita.github.io/ech/reference/figures/ech_logo.png" style="width: 3%;" /> Paquete [{ech}](https://calcita.github.io/ech/). Caja de herramientas para el procesamiento de la Encuesta Continua de Hogares de Uruguay del Instituto Nacional de Estadística (INE). Autores: [Gabriela Mathieu](https://github.com/calcita), [Richard Detomasi](https://github.com/RichDeto)
 
 - <img src="https://github.com/PoliticaArgentina/electorAr/raw/main/man/figures/logo.png" style="width: 3%;" /> Paquete [{electorAr}](https://github.com/PoliticaArgentina/electorAr/). Toolbox for Argentina's Electoral Data. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
 
 - <img src="https://github.com/holatam/eph/raw/master/man/figures/logo.png" style="width: 3%;" /> Paquete [{eph}](https://holatam.github.io/eph/). Una caja de herramientas para el procesamiento de datos con la Encuesta Permanente de Hogares (EPH-INDEC). Autores: [Diego Kozlowski](https://github.com/DiegoKoz), [Pablo Tiscornia](https://github.com/pablotis), [Guido Weksler](https://github.com/Guidowe), [Natsumi Shokida](https://github.com/natsushok), [German Rosati](https://github.com/gefero/) y [Carolina Pradier](https://github.com/caropradier/)
 
-- <img src="https://calcita.github.io/ech/reference/figures/ech_logo.png" style="width: 3%;" /> Paquete [{ech}](https://calcita.github.io/ech/). Caja de herramientas para el procesamiento de la Encuesta Continua de Hogares de Uruguay del Instituto Nacional de Estadística (INE). Autores: [Gabriela Mathieu](https://github.com/calcita), [Richard Detomasi](https://github.com/RichDeto)
-
-- Paquete [{casen}](https://github.com/pachadotdev/casen). Proporciona un conjunto de funciones para realizar estadistica descriptiva e inferencia con el disenio complejo de la encuesta CASEN. Autor/es: [M. Vargas](https://github.com/pachadotdev), [Kirill Müller]([https://github.com/RichDeto](https://github.com/krlmlr))
-
 - <img src="https://github.com/PoliticaArgentina/legislAr/raw/main/man/figures/logo.png" style="width: 3%;" /> Paquete [{legislAr}](https://github.com/PoliticaArgentina/legislAr). Argentina Legislative Data and Tools. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
 
-- Paquete [{occupationcross}](https://guidowe.github.io/occupationcross/). ocupationcross está diseñado para facilitar la compatibilización de los clasificadores nacionales de ocupaciones utilizados en encuestas y censos de distintos países. Autor/es: [Guido Weksler]([https://github.com/RichDeto](https://github.com/Guidowe) y [Facundo Lastra](https://github.com/marajadesantelmo)
+- Paquete [{occupationcross}](https://guidowe.github.io/occupationcross/). Este paquete está diseñado para facilitar la compatibilización de los clasificadores nacionales de ocupaciones utilizados en encuestas y censos de distintos países. Autor/es: [Guido Weksler]([https://github.com/RichDeto](https://github.com/Guidowe) y [Facundo Lastra](https://github.com/marajadesantelmo)
 
 - <img src="https://github.com/fmgarciadiaz/PortalHacienda-CRAN/raw/master/man/figures/logo.png" style="width: 3%;" /> Paquete [{PortalHacienda}](https://github.com/fmgarciadiaz/PortalHacienda-CRAN). Un paquete de interfase a la API del Portal de Datos del Ministerio de Hacienda. Autor/es: [Fernando García Díaz](https://github.com/fmgarciadiaz)
 
