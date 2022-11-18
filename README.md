@@ -61,7 +61,7 @@ Un lista de paquetes desarrollados en R por personas de Latinoamérica para el a
 
 - <img src="https://github.com/PoliticaArgentina/opinAr/raw/master/man/figures/logo.png" style="width: 3%;" /> [{opinAr}](https://github.com/PoliticaArgentina/opinAr). Argentina´s Public Opinion Toolbox. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
 
-- <img src="https://politicaargentina.github.io/polArverse/reference/figures/logo.png" style="width: 3%;" />   [{polArverse}](https://politicaargentina.github.io/polArverse/). Universo de paquetes para trabajar con herramientas y datos de Política Argentina desde R. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
+- <img src="https://politicaargentina.github.io/polArverse/reference/figures/logo.png" style="width: 3%;" />   [{polArverse}`](https://politicaargentina.github.io/polArverse/). Universo de paquetes para trabajar con herramientas y datos de Política Argentina desde R. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
 
 
 
@@ -80,6 +80,8 @@ Un lista de paquetes desarrollados en R por personas de Latinoamérica para el a
 - <img src="https://github.com/eliocamp/ggperiodic/raw/master/man/figures/logo.png" style="width: 3%;" /> [{ggperiodic}](https://github.com/eliocamp/ggperiodic). ggperiodic is an attempt to solve the issue of plotting periodic data in ggplot2. It automatically augments your data to wrap it around to any arbitrary domain. Autor/es: [Elio Campitelli](https://github.com/eliocamp)
 
 - <img src="https://eliocamp.github.io/ggnewscale/reference/figures/logo.png" style="width: 3%;" /> [{ggnewscale}](https://eliocamp.github.io/ggnewscale/). Paquete que intenta hacer menos doloroso el uso de de múltiples escalas en `{ggplot2}`. Autor/es: [Elio Campitelli](https://github.com/eliocamp)
+
+- <img src="https://raw.githubusercontent.com/PoliticaArgentina/data_warehouse/master/hex/polArViz.png" style="width: 3%;" />   [{polArViz}](https://politicaargentina.github.io/polArViz/). Librería auxiliar del polArverse que contiene funciones para visualizaciones que permiten explorar radpidamente la variedad de datos del universo político de Argentina. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
 
 
 ### Conjunto de datos
