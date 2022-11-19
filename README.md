@@ -27,8 +27,6 @@ Un lista de paquetes desarrollados en R por personas de Latinoamérica para el a
 
 - <img src="https://calcita.github.io/ech/reference/figures/ech_logo.png" style="width: 3%;" /> [{ech}](https://calcita.github.io/ech/). Caja de herramientas para el procesamiento de la Encuesta Continua de Hogares de Uruguay del Instituto Nacional de Estadística (INE). Autores: [Gabriela Mathieu](https://github.com/calcita), [Richard Detomasi](https://github.com/RichDeto)
 
-- <img src="https://github.com/PoliticaArgentina/electorAr/raw/main/man/figures/logo.png" style="width: 3%;" /> Paquete [{electorAr}](https://github.com/PoliticaArgentina/electorAr/). Toolbox for Argentina's Electoral Data. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
-
 - <img src="https://github.com/PoliticaArgentina/electorAr/raw/main/man/figures/logo.png" style="width: 3%;" /> [{electorAr}](https://github.com/PoliticaArgentina/electorAr/). Toolbox for Argentina's Electoral Data. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
 
 - <img src="https://github.com/holatam/eph/raw/master/man/figures/logo.png" style="width: 3%;" /> [{eph}](https://holatam.github.io/eph/). Una caja de herramientas para el procesamiento de datos con la Encuesta Permanente de Hogares (EPH-INDEC). Autores: [Diego Kozlowski](https://github.com/DiegoKoz), [Pablo Tiscornia](https://github.com/pablotis), [Guido Weksler](https://github.com/Guidowe), [Natsumi Shokida](https://github.com/natsushok), [German Rosati](https://github.com/gefero/) y [Carolina Pradier](https://github.com/caropradier/)
