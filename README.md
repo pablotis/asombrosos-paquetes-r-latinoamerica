@@ -48,12 +48,16 @@ Un lista de paquetes desarrollados en R por personas de Latinoamérica para el a
 
 - <img src="https://github.com/RichDeto/geouy/raw/master/man/figures/geouy_logo_b.png" style="width: 3%;" /> [{geouy}](https://github.com/RichDeto/geouy). geouy is an R package that allows users to easily access official spatial data sets of Uruguay. Autor/es: [Richard Detomasi](https://github.com/RichDeto)
 
+- <img src="https://github.com/musajajorge/mapsPERU/raw/main/imgs/hex_mapsPERU.png" style="width: 3%;" /> [{mapsPERU}](https://github.com/musajajorge/mapsPERU). mapsPERU es un paquete que proporciona conjuntos de datos con información de los centroides y límites geográficos de las regiones, departamentos, provincias y distritos del Perú. Autor/es: [Jorge L. C. Musaja](https://github.com/musajajorge)
+
 - <img src="https://github.com/bitsandbricks/RUMBA/raw/master/inst/figures/RUMBA_logo.png" style="width: 3%;" /> [{RUMBA}](https://github.com/bitsandbricks/RUMBA) Un conjunto de herramientas para el análisis de la Región Urbana Metropolitana de Buenos Aires usando R. Autor/es: [Antonio Vazquez Brust](https://github.com/bitsandbricks)
 
 
-### Acceso y procesamiento de temáticas específicas
+### Acceso y procesamiento de información sobre temáticas específicas
 
 - <img src="https://github.com/AgRoMeteorologiaINTA/agromet/raw/master/man/figures/logo.png" style="width: 3%;" /> [{agromet}](https://github.com/AgRoMeteorologiaINTA/agromet). Conjunto de funciones para calcular índices y estadísticos climáticos hidrológicos a partir de datos tidy. Incluye una función para graficar resultados georeferenciados y e información cartográfica. Autor/es: [Yanina Bellini Saibene](https://github.com/yabellini), [Elio Campitelli](https://github.com/eliocamp), [Paola Corrales](https://github.com/paocorrales), [Natalia Gattinoni](https://github.com/NatiGattinoni)
+
+- <img src="https://github.com/musajajorge/CINE/raw/main/imgs/hex_emblema_CINE.png" style="width: 3%;" /> [{CINE}](https://github.com/musajajorge/CINE/). CINE es un paquete que utiliza la lematización de términos educativos para clasificar los programas educativos según la CINE (Clasificación Internacional Normalizada de la Educación) para el Perú publicada por el INEI (Instituto Nacional de Estadística e Informática). Autor/es: [Jorge L. C. Musaja](https://github.com/musajajorge)
 
 - <img src="https://eliocamp.github.io/metR/reference/figures/logo.png" style="width: 3%;" /> [{metR}](https://eliocamp.github.io/metR/). Funciones útiles y extensiones de ggplot2 para manejar y graficar datos meteorológicos. Autor/es: [Elio Campitelli](https://github.com/eliocamp)
 
@@ -79,7 +83,11 @@ Un lista de paquetes desarrollados en R por personas de Latinoamérica para el a
 
 - <img src="https://eliocamp.github.io/ggnewscale/reference/figures/logo.png" style="width: 3%;" /> [{ggnewscale}](https://eliocamp.github.io/ggnewscale/). Paquete que intenta hacer menos doloroso el uso de de múltiples escalas en `{ggplot2}`. Autor/es: [Elio Campitelli](https://github.com/eliocamp)
 
+- <img src="https://github.com/musajajorge/makePalette/raw/main/imgs/hex_emblema_makePalette.png" style="width: 3%;" /> [{makePalette}](https://github.com/musajajorge/makePalette/). es un paquete que contiene funciones que le permiten crear su propia paleta de colores a partir de una imagen, utilizando algoritmos matemáticos. Autor/es: [Jorge L. C. Musaja](https://github.com/musajajorge)
+
 - <img src="https://raw.githubusercontent.com/PoliticaArgentina/data_warehouse/master/hex/polArViz.png" style="width: 3%;" />   [{polArViz}](https://politicaargentina.github.io/polArViz/). Librería auxiliar del polArverse que contiene funciones para visualizaciones que permiten explorar radpidamente la variedad de datos del universo político de Argentina. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
+
+- <img src="https://github.com/musajajorge/popPyramid/raw/main/imgs/hex_emblema_pyramid.png" style="width: 3%;" /> [{popPyramid}](https://github.com/musajajorge/popPyramid/). popPyramid es un paquete que facilita la elaboración de pirámides de población. Autor/es: [Jorge L. C. Musaja](https://github.com/musajajorge)
 
 
 ### Conjunto de datos
