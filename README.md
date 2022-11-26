@@ -57,7 +57,7 @@ Un lista de paquetes desarrollados en R por personas de Latinoamérica para el a
 
 - <img src="https://github.com/AgRoMeteorologiaINTA/agromet/raw/master/man/figures/logo.png" style="width: 3%;" /> [{agromet}](https://github.com/AgRoMeteorologiaINTA/agromet) - [ARGENTINA :argentina:]. Conjunto de funciones para calcular índices y estadísticos climáticos hidrológicos a partir de datos tidy. Incluye una función para graficar resultados georeferenciados y e información cartográfica. Autor/es: [Yanina Bellini Saibene](https://github.com/yabellini), [Elio Campitelli](https://github.com/eliocamp), [Paola Corrales](https://github.com/paocorrales), [Natalia Gattinoni](https://github.com/NatiGattinoni)
 
-- [{ASpli}`](https://bioconductor.org/packages/release/bioc/html/ASpli.html). An integrative R package for analysing alternative splicing using RNAseq. Autor/es: Estefania Mancini, Andrés Rabinovich, Javier Iserte, Marcelo Yanovsky, Ariel Chernomoretz
+- [{ASpli}](https://bioconductor.org/packages/release/bioc/html/ASpli.html). An integrative R package for analysing alternative splicing using RNAseq. Autor/es: Estefania Mancini, Andrés Rabinovich, Javier Iserte, Marcelo Yanovsky, Ariel Chernomoretz
 
 - <img src="https://github.com/musajajorge/CINE/raw/main/imgs/hex_emblema_CINE.png" style="width: 3%;" /> [{CINE}](https://github.com/musajajorge/CINE/) - [PERÚ :peru:]. CINE es un paquete que utiliza la lematización de términos educativos para clasificar los programas educativos según la CINE (Clasificación Internacional Normalizada de la Educación) para el Perú publicada por el INEI (Instituto Nacional de Estadística e Informática). Autor/es: [Jorge L. C. Musaja](https://github.com/musajajorge)
 
