@@ -1,0 +1,105 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r seteo de chunk, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  echo = FALSE, warning = FALSE, message = FALSE, error = FALSE
+)
+```
+
+
+
+```{r librerias}
+library(tidyverse)
+library(googlesheets4)
+source("aux/funciones.R")
+```
+
+```{r base}
+googlesheets4::gs4_deauth()
+url <- "https://docs.google.com/spreadsheets/d/1xcYY1RkvOxnJlANMPtzhbdrpUgtSdF7IoEtNzE6zRKk/edit?usp=sharing"
+b_paquetes <- read_sheet(url)
+```
+
+## Temáticas (en función del objetivo principal del paquete)
+
+
+### Acceso y Procesamiento de fuentes de datos oficiales
+
+```{r}
+parrafo <- armar_parrafo(tematica_nro = 1)
+```
+`r parrafo`
+
+
+### Acceso y procesamiento de datos espaciales
+
+```{r}
+parrafo <- armar_parrafo(tematica_nro = 2)
+```
+
+`r parrafo`
+
+
+
+### Acceso y procesamiento de información sobre temáticas específicas
+
+```{r}
+parrafo <- armar_parrafo(tematica_nro = 3)
+```
+
+`r parrafo`
+
+
+
+### Tratamiento de datos
+
+```{r}
+parrafo <- armar_parrafo(tematica_nro = 4)
+```
+
+`r parrafo`
+
+
+
+### Modelado
+
+```{r}
+parrafo <- armar_parrafo(tematica_nro = 5)
+```
+
+`r parrafo`
+
+
+### Visualización de datos
+
+```{r}
+parrafo <- armar_parrafo(tematica_nro = 6)
+```
+
+`r parrafo`
+
+
+
+### Conjunto de datos
+
+```{r}
+parrafo <- armar_parrafo(tematica_nro = 7)
+```
+
+`r parrafo`
+
+
+
+### Enseñanza | Pedagogía
+
+```{r}
+parrafo <- armar_parrafo(tematica_nro = 8)
+```
+
+`r parrafo`

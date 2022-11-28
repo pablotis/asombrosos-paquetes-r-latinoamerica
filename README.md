@@ -1,136 +1,191 @@
-# Asombrosos paquetes de R en Latinoamérica
 
-Un lista de paquetes desarrollados en R por personas de Latinoamérica para el acceso, procesamiento, visualización y comunicación de datos.
-
-## Un paquete está en esta lista porque:
-
-- Es de código abierto, licencia libre y disponible para su descarga.
-
-- Es producido por alguien de Latinoamérica
-
-<br>
-
-¿Tenés un paquete y lo querés sumar al repositorio? ¿Conocés un paquete desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de [contribuciones](#propuesta-de-paquetes), todas son más que bienvenidas. 
-
-<br>
+<!-- README.md is generated from README.Rmd. Please edit that file -->
 
 ## Temáticas (en función del objetivo principal del paquete)
 
 ### Acceso y Procesamiento de fuentes de datos oficiales
 
-
-- [calidad](https://inesscc.github.io/calidad/articles/tutorial.html) - [CHILE :chile:]. Proporciona indicadores de calidad para estimaciones provenientes de muestreos complejos, con lo cual se busca contribuir a un adecuado uso de los datos publicados por las oficinas de estadísticas de la región.En este momento el paquete implementa los estándares publicados por [CEPAL](https://repositorio.cepal.org/bitstream/handle/11362/45681/1/S2000293_es.pdf) e [INE Chile](https://www.ine.cl/docs/default-source/institucionalidad/buenas-pr%C3%A1cticas/clasificaciones-y-estandares/est%C3%A1ndar-evaluaci%C3%B3n-de-calidad-de-estimaciones-publicaci%C3%B3n-27022020.pdf). Adicionalmente, los y las usuarios pueden desarrolllar sus propios estándares utilizando uno o más de los 7 indicadores de calidad incorporados en el paquete. Autor/es: [Klaus Lehmann](https://github.com/Klauslehmann), [Ricardo Pizarro](https://github.com/ricardoflopiza) y [Ignacio Agloni](https://github.com/ignacioagloni).
-
-- [casen](https://github.com/pachadotdev/casen) - [CHILE :chile:]. Proporciona un conjunto de funciones para realizar estadistica descriptiva e inferencia con el disenio complejo de la encuesta CASEN. Autor/es: [M. Vargas](https://github.com/pachadotdev), [Kirill Müller]([https://github.com/RichDeto](https://github.com/krlmlr))
-
-- <img src="https://github.com/politicaargentina/data_warehouse/raw/master/hex/discursAr.png?raw=true" style="width: 3%;" /> [discursAr](https://github.com/PoliticaArgentina/discursAr/) - [ARGENTINA :argentina:]. Argentina´s Presidential Speeches Toolbox. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
-
-- <img src="https://calcita.github.io/ech/reference/figures/ech_logo.png" style="width: 3%;" /> [ech](https://calcita.github.io/ech/) - [URUGUAY :uruguay:]. Caja de herramientas para el procesamiento de la Encuesta Continua de Hogares de Uruguay del Instituto Nacional de Estadística (INE). Autores: [Gabriela Mathieu](https://github.com/calcita), [Richard Detomasi](https://github.com/RichDeto)
-
-- <img src="https://github.com/PoliticaArgentina/electorAr/raw/main/man/figures/logo.png" style="width: 3%;" /> [electorAr](https://github.com/PoliticaArgentina/electorAr/) - [ARGENTINA :argentina:]. Toolbox for Argentina's Electoral Data. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
-
-- <img src="https://github.com/holatam/eph/raw/master/man/figures/logo.png" style="width: 3%;" /> [eph](https://holatam.github.io/eph/) - [ARGENTINA :argentina:]. Una caja de herramientas para el procesamiento de datos con la Encuesta Permanente de Hogares (EPH-INDEC). Autores: [Diego Kozlowski](https://github.com/DiegoKoz), [Pablo Tiscornia](https://github.com/pablotis), [Guido Weksler](https://github.com/Guidowe), [Natsumi Shokida](https://github.com/natsushok), [German Rosati](https://github.com/gefero/) y [Carolina Pradier](https://github.com/caropradier/)
-
-- [occupationcross](https://guidowe.github.io/occupationcross/) - [ARGENTINA :argentina:]. ocupationcross está diseñado para facilitar la compatibilización de los clasificadores nacionales de ocupaciones utilizados en encuestas y censos de distintos países. Autor/es: [Guido Weksler]([https://github.com/RichDeto](https://github.com/Guidowe) y [Facundo Lastra](https://github.com/marajadesantelmo)
-
-- <img src="https://github.com/fmgarciadiaz/PortalHacienda-CRAN/raw/master/man/figures/logo.png" style="width: 3%;" /> [PortalHacienda](https://github.com/fmgarciadiaz/PortalHacienda-CRAN) - [ARGENTINA :argentina:]. Un paquete de interfase a la API del Portal de Datos del Ministerio de Hacienda. Autor/es: [Fernando García Díaz](https://github.com/fmgarciadiaz)
-
-- [presentes](https://diegokoz.github.io/presentes/index.html) - [ARGENTINA :argentina:]. Herramientas para acceder a datos sobre las víctimas del terrorismo de Estado en Argentina. Autor/es: [Diego Kozlowski](https://github.com/DiegoKoz), [Demian Zayat](https://github.com/Demzayat) y [Antonio Vazquez Brust](https://github.com/bitsandbricks) 
-
+- <a href="https://inesscc.github.io/calidad/articles/tutorial.html">calidad</a> -
+  \[Chile :chile:\] - Proporciona indicadores de calidad para
+  estimaciones provenientes de muestreos complejos, con lo cual se busca
+  contribuir a un adecuado uso de los datos publicados por las oficinas
+  de estadísticas de la región. Autor/es: Klaus Lehmann, Ricardo Pizarro
+  y Ignacio Agloni
+- <a href="https://github.com/pachadotdev/casen">casen</a> - \[Chile
+  :chile:\] - Proporciona un conjunto de funciones para realizar
+  estadistica descriptiva e inferencia con el disenio complejo de la
+  encuesta CASEN. Autor/es: M. Vargas, Kirill Müller
+- <img src="https://github.com/politicaargentina/data_warehouse/raw/master/hex/discursAr.png?raw=true" style="width: 3%;" />
+  <a href="https://github.com/PoliticaArgentina/discursAr/">discursAr</a> -
+  \[Argentina :argentina:\] - Argentina´s Presidential Speeches Toolbox.
+  Autor/es: Juan Pablo Ruiz Nicolini
+- <img src="https://camo.githubusercontent.com/0886e9e7740713bd689510d08c10c97edf6a6258c8dcddffcda02bbbd37edef4/68747470733a2f2f63616c636974612e6769746875622e696f2f6563682f7265666572656e63652f666967757265732f6563685f6c6f676f2e706e67" style="width: 3%;" />
+  <a href="https://calcita.github.io/ech/">ech</a> - \[Uruguay
+  :uruguay:\] - Caja de herramientas para el procesamiento de la
+  Encuesta Continua de Hogares de Uruguay del Instituto Nacional de
+  Estadística (INE). Autor/es: Gabriela Mathieu, Richard Detomasi
+- <img src="https://github.com/PoliticaArgentina/electorAr/raw/main/man/figures/logo.png" style="width: 3%;" />
+  <a href="https://github.com/PoliticaArgentina/electorAr/">electoAr</a> -
+  \[Argentina :argentina:\] - Toolbox for Argentina’s Electoral Data.
+  Autor/es: Juan Pablo Ruiz Nicolini
+- <img src="https://github.com/holatam/eph/raw/master/man/figures/logo.png" style="width: 3%;" />
+  <a href="https://holatam.github.io/eph/">eph</a> - \[Argentina
+  :argentina:\] - Una caja de herramientas para el procesamiento de
+  datos con la Encuesta Permanente de Hogares (EPH-INDEC). Autor/es:
+  Diego Kozlowski, Pablo Tiscornia, Guido Weksler, Natsumi Shokida,
+  German Rosati y Carolina Pradier
+- <a href="https://guidowe.github.io/occupationcross/">occupationcross</a> -
+  \[Argentina :argentina:\] - ocupationcross está diseñado para
+  facilitar la compatibilización de los clasificadores nacionales de
+  ocupaciones utilizados en encuestas y censos de distintos países.
+  Autor/es: Guido Weksler y Facundo Lastra
+- <img src="https://github.com/fmgarciadiaz/PortalHacienda-CRAN/raw/master/man/figures/logo.png" style="width: 3%;" />
+  <a href="https://github.com/fmgarciadiaz/PortalHacienda-CRAN">PortalHacienda</a> -
+  \[Argentina :argentina:\] - Un paquete de interfase a la API del
+  Portal de Datos del Ministerio de Hacienda. Autor/es: Fernando García
+  Díaz
+- <a href="https://diegokoz.github.io/presentes/index.html">presentes</a> -
+  \[Argentina :argentina:\] - Herramientas para acceder a datos sobre
+  las víctimas del terrorismo de Estado en Argentina. Autor/es: Diego
+  Kozlowski, Demian Zayat y Antonio Vazquez Brust
 
 ### Acceso y procesamiento de datos espaciales
 
-- [chilemapas](https://github.com/pachadotdev/chilemapas/) - [CHILE :chile:]. Mapas terrestres de Chile con topologias simplificadas. Autor/es: [M. Vargas](https://github.com/pachadotdev)
-
-- <img src="https://github.com/PoliticaArgentina/geoAr/raw/main/man/figures/logo.png" style="width: 3%;" />   [geoAr](https://github.com/PoliticaArgentina/geoAr) - [ARGENTINA :argentina:]. Argentina's Spatial Data Toolbox. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
-
-- <img src="https://github.com/ipeaGIT/geobr/blob/master/r-package/man/figures/geobr_logo_y.png?raw=true" style="width: 3%;" /> [geobr](https://ipeagit.github.io/geobr/) - [BRASIL :brazil:]. Download Official Spatial Data Sets of Brazil. Autor/es: [Rafael H M Pereira](https://github.com/rafapereirabr)
-
-- <img src="https://github.com/RichDeto/geouy/raw/master/man/figures/geouy_logo_b.png" style="width: 3%;" /> [geouy](https://github.com/RichDeto/geouy) - [URUGUAY :uruguay:]. geouy is an R package that allows users to easily access official spatial data sets of Uruguay. Autor/es: [Richard Detomasi](https://github.com/RichDeto)
-
-- <img src="https://github.com/musajajorge/mapsPERU/raw/main/imgs/hex_mapsPERU.png" style="width: 3%;" /> [mapsPERU](https://github.com/musajajorge/mapsPERU) - [PERÚ :peru:]. mapsPERU es un paquete que proporciona conjuntos de datos con información de los centroides y límites geográficos de las regiones, departamentos, provincias y distritos del Perú. Autor/es: [Jorge L. C. Musaja](https://github.com/musajajorge)
-
-- <img src="https://github.com/bitsandbricks/RUMBA/raw/master/inst/figures/RUMBA_logo.png" style="width: 3%;" /> [RUMBA](https://github.com/bitsandbricks/RUMBA) - [ARGENTINA :argentina:]. Un conjunto de herramientas para el análisis de la Región Urbana Metropolitana de Buenos Aires usando R. Autor/es: [Antonio Vazquez Brust](https://github.com/bitsandbricks)
-
+- <a href="https://github.com/pachadotdev/chilemapas/">chilemapas</a> -
+  \[Chile :chile:\] - Mapas terrestres de Chile con topologias
+  simplificadas. Autor/es: M. Vargas
+- <img src="https://github.com/PoliticaArgentina/geoAr/raw/main/man/figures/logo.png" style="width: 3%;" />
+  <a href="https://github.com/PoliticaArgentina/geoAr">geoAr</a> -
+  \[Argentina :argentina:\] - Argentina’s Spatial Data Toolbox.
+  Autor/es: Juan Pablo Ruiz Nicolini
+- <img src="https://github.com/ipeaGIT/geobr/raw/master/r-package/man/figures/geobr_logo_y.png?raw=true" style="width: 3%;" />
+  <a href="https://ipeagit.github.io/geobr/">geobr</a> - \[Brasil
+  :brasil:\] - Download Official Spatial Data Sets of Brazil. Autor/es:
+  Rafael H M Pereira
+- <img src="https://github.com/RichDeto/geouy/raw/master/man/figures/geouy_logo_b.png" style="width: 3%;" />
+  <a href="https://github.com/RichDeto/geouy">geouy</a> - \[Uruguay
+  :uruguay:\] - geouy is an R package that allows users to easily access
+  official spatial data sets of Uruguay. Autor/es: Richard Detomasi
+- <img src="https://github.com/musajajorge/mapsPERU/raw/main/imgs/hex_mapsPERU.png" style="width: 3%;" />
+  <a href="https://github.com/musajajorge/mapsPERU">mapsPERU</a> -
+  \[Perú :perú:\] - mapsPERU es un paquete que proporciona conjuntos de
+  datos con información de los centroides y límites geográficos de las
+  regiones, departamentos, provincias y distritos del Perú. Autor/es:
+  Jorge L. C. Musaja
+- <img src="https://github.com/bitsandbricks/RUMBA/raw/master/inst/figures/RUMBA_logo.png" style="width: 3%;" />
+  <a href="https://github.com/bitsandbricks/RUMBA">RUMBA</a> -
+  \[Argentina :argentina:\] - Un conjunto de herramientas para el
+  análisis de la Región Urbana Metropolitana de Buenos Aires usando R.
+  Autor/es: Antonio Vazquez Brust
 
 ### Acceso y procesamiento de información sobre temáticas específicas
 
-- <img src="https://github.com/AgRoMeteorologiaINTA/agromet/raw/master/man/figures/logo.png" style="width: 3%;" /> [agromet](https://github.com/AgRoMeteorologiaINTA/agromet) - [ARGENTINA :argentina:]. Conjunto de funciones para calcular índices y estadísticos climáticos hidrológicos a partir de datos tidy. Incluye una función para graficar resultados georeferenciados y e información cartográfica. Autor/es: [Yanina Bellini Saibene](https://github.com/yabellini), [Elio Campitelli](https://github.com/eliocamp), [Paola Corrales](https://github.com/paocorrales), [Natalia Gattinoni](https://github.com/NatiGattinoni)
-
-- [ASpli](https://bioconductor.org/packages/release/bioc/html/ASpli.html). An integrative R package for analysing alternative splicing using RNAseq. Autor/es: Estefania Mancini, Andrés Rabinovich, Javier Iserte, Marcelo Yanovsky, Ariel Chernomoretz
-
-- <img src="https://github.com/musajajorge/CINE/raw/main/imgs/hex_emblema_CINE.png" style="width: 3%;" /> [CINE](https://github.com/musajajorge/CINE/) - [PERÚ :peru:]. CINE es un paquete que utiliza la lematización de términos educativos para clasificar los programas educativos según la CINE (Clasificación Internacional Normalizada de la Educación) para el Perú publicada por el INEI (Instituto Nacional de Estadística e Informática). Autor/es: [Jorge L. C. Musaja](https://github.com/musajajorge)
-
-- <img src="https://eliocamp.github.io/metR/reference/figures/logo.png" style="width: 3%;" /> [metR](https://eliocamp.github.io/metR/). Funciones útiles y extensiones de ggplot2 para manejar y graficar datos meteorológicos. Autor/es: [Elio Campitelli](https://github.com/eliocamp)
-
-- <img src="https://github.com/PoliticaArgentina/opinAr/raw/master/man/figures/logo.png" style="width: 3%;" /> [opinAr](https://github.com/PoliticaArgentina/opinAr) - [ARGENTINA :argentina:]. Argentina´s Public Opinion Toolbox. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
-
-- <img src="https://politicaargentina.github.io/polArverse/reference/figures/logo.png" style="width: 3%;" />   [polArverse`](https://politicaargentina.github.io/polArverse/) - [ARGENTINA :argentina:]. Universo de paquetes para trabajar con herramientas y datos de Política Argentina desde R. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
-
-
+- <img src="https://github.com/AgRoMeteorologiaINTA/agromet/raw/master/man/figures/logo.png" style="width: 3%;" />
+  <a href="https://github.com/AgRoMeteorologiaINTA/agromet">agromet</a> -
+  \[Argentina :argentina:\] - Conjunto de funciones para calcular
+  índices y estadísticos climáticos hidrológicos a partir de datos tidy.
+  Incluye una función para graficar resultados georeferenciados y e
+  información cartográfica. Autor/es: Yanina Bellini Saibene, Elio
+  Campitelli, Paola Corrales, Natalia Gattinoni
+- <a href="https://bioconductor.org/packages/release/bioc/html/ASpli.html">ASpli</a> - -
+  An integrative R package for analysing alternative splicing using
+  RNAseq. Autor/es: Estefania Mancini, Andrés Rabinovich, Javier Iserte,
+  Marcelo Yanovsky, Ariel Chernomoretz
+- <img src="https://github.com/musajajorge/CINE/raw/main/imgs/hex_emblema_CINE.png" style="width: 3%;" />
+  <a href="https://github.com/musajajorge/CINE/">CINE</a> - \[Perú
+  :perú:\] - CINE es un paquete que utiliza la lematización de términos
+  educativos para clasificar los programas educativos según la CINE
+  (Clasificación Internacional Normalizada de la Educación) para el Perú
+  publicada por el INEI (Instituto Nacional de Estadística e
+  Informática). Autor/es: Jorge L. C. Musaja
+- <img src="https://camo.githubusercontent.com/48a6848fa54967a8e4113fe6e55ecbd14b855de6c169ac75ed6c5fbfc1991ad8/68747470733a2f2f656c696f63616d702e6769746875622e696f2f6d6574522f7265666572656e63652f666967757265732f6c6f676f2e706e67" style="width: 3%;" />
+  <a href="https://eliocamp.github.io/metR/">metR</a> - - Funciones
+  útiles y extensiones de ggplot2 para manejar y graficar datos
+  meteorológicos. Autor/es: Elio Campitelli
+- <img src="https://github.com/PoliticaArgentina/opinAr/raw/master/man/figures/logo.png" style="width: 3%;" />
+  <a href="https://github.com/PoliticaArgentina/opinAr">opinAr</a> -
+  \[Argentina :argentina:\] - Argentina´s Public Opinion Toolbox.
+  Autor/es: Juan Pablo Ruiz Nicolini
+- <img src="https://camo.githubusercontent.com/7086944caf9b9ba06dd6d90226a81694a9f71c36ccbd2cfd4420d6dc000a880e/68747470733a2f2f706f6c6974696361617267656e74696e612e6769746875622e696f2f706f6c417276657273652f7265666572656e63652f666967757265732f6c6f676f2e706e67" style="width: 3%;" />
+  <a href="https://politicaargentina.github.io/polArverse/">porArverse</a> -
+  \[Argentina :argentina:\] - Universo de paquetes para trabajar con
+  herramientas y datos de Política Argentina desde R. Autor/es: Juan
+  Pablo Ruiz Nicolini
 
 ### Tratamiento de datos
 
-- <img src="https://github.com/luisDVA/unheadr/raw/master/man/figures/logosmall.png" style="width: 3%;" />   [unheadr](https://github.com/luisDVA/unheadr). El objetivo de `unheadr` es ayudar a limpiar datos cuando tiene subencabezados incrustados, o cuando los valores se ajustan en varias filas. Autor/es: [Luis Verde Arregoitia](https://github.com/luisDVA)
-
+- <img src="https://github.com/luisDVA/unheadr/raw/master/man/figures/logosmall.png" style="width: 3%;" />
+  <a href="https://github.com/luisDVA/unheadr">unheadr</a> - - El
+  objetivo de unheadr es ayudar a limpiar datos cuando tiene
+  subencabezados incrustados, o cuando los valores se ajustan en varias
+  filas. Autor/es: Luis Verde Arregoitia
 
 ### Modelado
 
-- <img src="https://rafzamb.github.io/sknifedatar/reference/figures/logo.png" style="width: 3%;" /> [sknifedatar](https://rafzamb.github.io/sknifedatar/). Una extensión  del ecosistema modeltime. Con este paquete vas a poder trabajar con modelado y visualización de múltiples series de tiempo. Autor/es: [Rafael Zambrano](https://github.com/rafzamb) y [Karina Bartolome](https://github.com/karbartolome)
-
+- <img src="https://camo.githubusercontent.com/96312cc1dc9e7667393dd53a4945ef4e882c4aced55e6544fe38f3a9e44ffef7/68747470733a2f2f7261667a616d622e6769746875622e696f2f736b6e69666564617461722f7265666572656e63652f666967757265732f6c6f676f2e706e67" style="width: 3%;" />
+  <a href="https://rafzamb.github.io/sknifedatar/">sknifedatar</a> - -
+  Una extensión del ecosistema modeltime. Con este paquete vas a poder
+  trabajar con modelado y visualización de múltiples series de tiempo.
+  Autor/es: Rafael Zambrano y Karina Bartolome
 
 ### Visualización de datos
 
-- <img src="https://github.com/eliocamp/ggperiodic/raw/master/man/figures/logo.png" style="width: 3%;" /> [ggperiodic](https://github.com/eliocamp/ggperiodic). ggperiodic is an attempt to solve the issue of plotting periodic data in ggplot2. It automatically augments your data to wrap it around to any arbitrary domain. Autor/es: [Elio Campitelli](https://github.com/eliocamp)
-
-- <img src="https://eliocamp.github.io/ggnewscale/reference/figures/logo.png" style="width: 3%;" /> [ggnewscale](https://eliocamp.github.io/ggnewscale/). Paquete que intenta hacer menos doloroso el uso de de múltiples escalas en `ggplot2`. Autor/es: [Elio Campitelli](https://github.com/eliocamp)
-
-- <img src="https://github.com/musajajorge/makePalette/raw/main/imgs/hex_emblema_makePalette.png" style="width: 3%;" /> [makePalette](https://github.com/musajajorge/makePalette/). es un paquete que contiene funciones que le permiten crear su propia paleta de colores a partir de una imagen, utilizando algoritmos matemáticos. Autor/es: [Jorge L. C. Musaja](https://github.com/musajajorge)
-
-- <img src="https://raw.githubusercontent.com/PoliticaArgentina/data_warehouse/master/hex/polArViz.png" style="width: 3%;" />   [polArViz](https://politicaargentina.github.io/polArViz/) - [ARGENTINA :argentina:]. Librería auxiliar del polArverse que contiene funciones para visualizaciones que permiten explorar radpidamente la variedad de datos del universo político de Argentina. Autor/es: [Juan Pablo Ruiz Nicolini](https://github.com/TuQmano)
-
-- <img src="https://github.com/musajajorge/popPyramid/raw/main/imgs/hex_emblema_pyramid.png" style="width: 3%;" /> [popPyramid](https://github.com/musajajorge/popPyramid/). popPyramid es un paquete que facilita la elaboración de pirámides de población. Autor/es: [Jorge L. C. Musaja](https://github.com/musajajorge)
-
+- <img src="https://github.com/eliocamp/ggperiodic/raw/master/man/figures/logo.png" style="width: 3%;" />
+  <a href="https://github.com/eliocamp/ggperiodic">ggperiodic</a> - -
+  ggperiodic is an attempt to solve the issue of plotting periodic data
+  in ggplot2. It automatically augments your data to wrap it around to
+  any arbitrary domain. Autor/es: Elio Campitelli
+- <img src="https://camo.githubusercontent.com/832610c74855a838332287661c9382517654248ce5cc90fb7649000f4538d56c/68747470733a2f2f656c696f63616d702e6769746875622e696f2f67676e65777363616c652f7265666572656e63652f666967757265732f6c6f676f2e706e67" style="width: 3%;" />
+  <a href="https://eliocamp.github.io/ggnewscale/">ggnewscale</a> - -
+  Paquete que intenta hacer menos doloroso el uso de de múltiples
+  escalas en ggplot2. Autor/es: Elio Campitelli
+- <img src="https://github.com/musajajorge/makePalette/raw/main/imgs/hex_emblema_makePalette.png" style="width: 3%;" />
+  <a href="https://github.com/musajajorge/makePalette/">makePalette</a> - -
+  Paquete que contiene funciones que le permiten crear su propia paleta
+  de colores a partir de una imagen, utilizando algoritmos matemáticos.
+  Autor/es: Jorge L. C. Musaja
+- <img src="https://raw.githubusercontent.com/PoliticaArgentina/data_warehouse/master/hex/polArViz.png" style="width: 3%;" />
+  <a href="https://politicaargentina.github.io/polArViz/">polArViz</a> -
+  \[Argentina :argentina:\] - Librería auxiliar del polArverse que
+  contiene funciones para visualizaciones que permiten explorar
+  radpidamente la variedad de datos del universo político de Argentina.
+  Autor/es: Juan Pablo Ruiz Nicolini
+- <img src="https://github.com/musajajorge/popPyramid/raw/main/imgs/hex_emblema_pyramid.png" style="width: 3%;" />
+  <a href="https://github.com/musajajorge/popPyramid/">popPyramid</a> - -
+  Paquete que facilita la elaboración de pirámides de población.
+  Autor/es: Jorge L. C. Musaja
 
 ### Conjunto de datos
 
-- <img src="https://cienciadedatos.github.io/datos/reference/figures/logo.png" style="width: 3%;" /> [datos](https://cienciadedatos.github.io/datos/). Este paquete provee la traducción al español de conjuntos de datos en inglés originalmente disponibles en otros paquetes de R. Los datos traducidos son los que se utilizan en los ejemplos del libro [R para Ciencia de Datos](https://es.r4ds.hadley.nz/), la versión en español de R for Data Science de Hadley Wickham & Garrett Grolemund. 
-Autor/es: [Riva Quiroga](https://github.com/rivaquiroga), [Edgar Ruiz](https://github.com/edgararuiz), [Mauricio Vargas](https://github.com/pachadotdev), [Mauro Lepore](https://github.com/maurolepore), [Rayna Harris](https://github.com/raynamharris) y [Daniela Vasquez](https://github.com/d4tagirl).
+- <img src="https://camo.githubusercontent.com/145140f540c1baa91ccd9a16b753e70793283f9e0056c0254e5282b5b4e855d6/68747470733a2f2f6369656e63696164656461746f732e6769746875622e696f2f6461746f732f7265666572656e63652f666967757265732f6c6f676f2e706e67" style="width: 3%;" />
+  <a href="https://cienciadedatos.github.io/datos/">datos</a> - - Este
+  paquete provee la traducción al español de conjuntos de datos en
+  inglés originalmente disponibles en otros paquetes de R. Los datos
+  traducidos son los que se utilizan en los ejemplos del libro
+  <a href="https://es.r4ds.hadley.nz/">R para Ciencia de Datos</a>.
+  Autor/es: Riva Quiroga, Edgar Ruiz, Mauricio Vargas, Mauro Lepore,
+  Rayna Harris y Daniela Vasquez.
+- <img src="https://camo.githubusercontent.com/d911a6c0f699ed2dd77a4181d5fc2db2e21c76805e453d5563b2b36db5659818/68747470733a2f2f72697661717569726f67612e6769746875622e696f2f677561677561732f7265666572656e63652f666967757265732f677561677561732d6865782e706e67" style="width: 3%;" />
+  <a href="https://rivaquiroga.github.io/guaguas/index.html">guaguas</a> -
+  \[Chile :chile:\] - Datos sobre nombres de guaguas (bebés) registrados
+  en Chile entre 1920 y 2021, según el Servicio de Registro Civil e
+  Identificación. Incluye solo los que fueron inscritos como primer
+  nombre. Este dataset permite explorar tendencias en los nombres
+  registrados durante el último siglo y puede utilizarse como fuente de
+  ejemplos para aprender/enseñar a trabajar con datos. Autor/es: Riva
+  Quiroga
 
-- <img src="https://rivaquiroga.github.io/guaguas/reference/figures/guaguas-hex.png" style="width: 3%;" /> [guaguas](https://rivaquiroga.github.io/guaguas/index.html) - [CHILE :chile:]. Datos sobre nombres de guaguas (bebés) registrados en Chile entre 1920 y 2021, según el Servicio de Registro Civil e Identificación. Incluye solo los que fueron inscritos como primer nombre. Este dataset permite explorar tendencias en los nombres registrados durante el último siglo y puede utilizarse como fuente de ejemplos para aprender/enseñar a trabajar con datos. Autor/es: [Riva Quiroga](https://github.com/rivaquiroga)
+### Enseñanza \| Pedagogía
 
-
-### Enseñanza de la estadística
-
-- [metamer](https://eliocamp.github.io/metamer/#metamer). Implementa el algoritmo propuesto por Matejka & Fitzmaurice (2017) para crear metamers (conjuntos de datos con propiedades estadísticas idénticas pero gráficos muy diferentes) con un esquema de recocido derivado de de Vicente et al. (2003). Autor/es: [Elio Campitelli](https://github.com/eliocamp)
-
-- [klassets](https://jkunst.com/klassets/). Es una colección de funciones para simular conjuntos de datos para: enseñar cómo funcionan algunos modelos estadísticos y algoritmos de aprendizaje automático, como también ilustrar algunos hechos particulares como la heteroscedasticidad o la paradoja de Simpson e incluso, comparar las predicciones entre modelos, por ejemplo regresión logística vs árbol de decisión vs k-Nearest Neighbours.
-Autor/es: [Joshua Kunst]( https://github.com/jbkunst) 
-
-
-
-## Propuesta de paquetes
-
-Si quieres proponer un paquete para que lo incluyamos en el repositorio, necesitamos los siguientes datos:
-* nombre del paquete
-* link a la documentación
-* breve descripción
-* autor/es
-* hexlogo (optativo)
-
-Con esta información, podremos revisarlo y analizar si lo incluimos.
-
-### ¿Cómo contribuir? 
-
-Todas las personas son bienvenidas a contribuir, independientemente de si recién están empezando a usar R o ya tienen más experiencia. Estas son las diferentes maneras de contribuir:
-* Abre un Pull Request (podes aprender cómo hacerlo con esta guía gratuita [¿Cómo contribuir a un proyecto en GitHub?](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
-* Añade un nuevo [issue](https://github.com/pablotis/asombrosos-paquetes-r-latinoamerica/issues) con la información del paquete (necesitaras una cuenta de github).
-* Envia un correo electrónico a pablotisco@gmail.com, andrea.gomezv11@gmail.com o patricia.andrea.loto@gmail.com.
-
-## Licencia
-
-[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
-Este trabajo tiene una licencia [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
----
-Inspirado en el repositorio [awesome-official-statistics-software](https://github.com/SNStatComp/awesome-official-statistics-software)
+- <a href="https://eliocamp.github.io/metamer/#metamer">metamer</a> - -
+  Implementa el algoritmo propuesto por Matejka & Fitzmaurice (2017)
+  para crear metamers (conjuntos de datos con propiedades estadísticas
+  idénticas pero gráficos muy diferentes) con un esquema de recocido
+  derivado de de Vicente et al. Autor/es: Elio Campitelli
+- <a href="Joshua Kunst">klassets</a> - - Es una colección de funciones
+  para simular conjuntos de datos para: enseñar cómo funcionan algunos
+  modelos estadísticos y algoritmos de aprendizaje automático, como
+  también ilustrar algunos hechos particulares como la
+  heteroscedasticidad o la paradoja de Simpson e incluso, comparar las
+  predicciones entre modelos, por ejemplo regresión logística vs árbol
+  de decisión vs k-Nearest Neighbours. Autor/es: Joshua Kunst
