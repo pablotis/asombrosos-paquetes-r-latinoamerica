@@ -3,8 +3,6 @@
 
 ## Temáticas (en función del objetivo principal del paquete)
 
-![](README_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
-
 ### Acceso y Procesamiento de fuentes de datos oficiales
 
 - <a href="https://inesscc.github.io/calidad/articles/tutorial.html">calidad</a> -
