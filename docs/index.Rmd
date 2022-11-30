@@ -1,0 +1,41 @@
+---
+title: "index"
+author: "Pablo Tiscornia"
+date: "2022-11-30"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, error = FALSE)
+```
+
+```{r}
+library(tidyverse)
+library(googlesheets4)
+library(reactable)
+```
+
+
+```{r base}
+googlesheets4::gs4_deauth()
+url <- "https://docs.google.com/spreadsheets/d/1xcYY1RkvOxnJlANMPtzhbdrpUgtSdF7IoEtNzE6zRKk/edit?usp=sharing"
+b_paquetes <- read_sheet(url)
+```
+
+## Temáticas (en función del objetivo principal del paquete)
+
+```{r}
+data <- b_paquetes |> 
+  select(tematica, icono, paquete, pais)
+  
+data |> 
+  reactable(filterable = TRUE, 
+            columns = list(
+              icono = colDef(filterable = FALSE)),
+            groupBy = "tematica",
+            showPageSizeOptions = TRUE,
+            showPagination = TRUE,
+            minRows = 10
+            )
+  
+```
