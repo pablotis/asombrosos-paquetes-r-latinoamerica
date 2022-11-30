@@ -17,6 +17,8 @@ knitr::opts_chunk$set(
 ```{r librerias}
 library(tidyverse)
 library(googlesheets4)
+library(gt)
+library(reactable)
 source("aux/funciones.R")
 ```
 
@@ -28,6 +30,21 @@ b_paquetes <- read_sheet(url)
 
 ## Temáticas (en función del objetivo principal del paquete)
 
+```{r}
+data <- b_paquetes |> 
+  select(tematica, icono, paquete, pais)
+  
+data |> 
+  reactable(filterable = TRUE, 
+            columns = list(
+              icono = colDef(filterable = FALSE)),
+            groupBy = "tematica",
+            showPageSizeOptions = TRUE,
+            showPagination = TRUE,
+            minRows = 10
+            )
+  
+```
 
 
 ### Acceso y Procesamiento de fuentes de datos oficiales
