@@ -13,6 +13,7 @@ knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, error = FA
 library(tidyverse)
 library(googlesheets4)
 library(reactable)
+library(htmltools)
 ```
 
 
@@ -26,16 +27,27 @@ b_paquetes <- read_sheet(url)
 
 ```{r}
 data <- b_paquetes |> 
-  select(tematica, icono, paquete, pais)
+  mutate(pais = paste0(pais, " 🇨🇱")) |> 
+  select(tematica, icono, paquete, pais, link)
   
 data |> 
   reactable(filterable = TRUE, 
-            columns = list(
-              icono = colDef(filterable = FALSE)),
+            searchable = TRUE,
+            striped = TRUE,
             groupBy = "tematica",
             showPageSizeOptions = TRUE,
             showPagination = TRUE,
-            minRows = 10
-            )
+            minRows = 10,
+            columns = list(
+              tematica = colDef(name = "Temática"),
+              paquete = colDef(
+                name = "Paquete",
+                html = TRUE, 
+                cell = function(value, index) {
+                  sprintf('<a href="%s" target="_blank">%s</a>', data$link[index], value)
+                }),
+              icono = colDef(cell = reactablefmtr::embed_img(height = 45, width = 45)),
+              pais = colDef(name = "País"))
+  )
   
 ```
