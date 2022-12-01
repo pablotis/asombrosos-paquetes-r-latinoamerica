@@ -90,8 +90,8 @@ desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de
 - <img
   src="https://github.com/ipeaGIT/geobr/raw/master/r-package/man/figures/geobr_logo_y.png?raw=true"
   width="30" height="30" />
-  <a href="https://ipeagit.github.io/geobr/">geobr</a> - \[Brasil
-  :brasil:\] - Download Official Spatial Data Sets of Brazil. Autor/es:
+  <a href="https://ipeagit.github.io/geobr/">geobr</a> - \[Brazil
+  :brazil:\] - Download Official Spatial Data Sets of Brazil. Autor/es:
   Rafael H M Pereira
 - <img
   src="https://github.com/RichDeto/geouy/raw/master/man/figures/geouy_logo_b.png"
@@ -267,15 +267,18 @@ Con esta información, podremos revisarlo y analizar si lo incluimos.
 
 Todas las personas son bienvenidas a contribuir, independientemente de
 si recién están empezando a usar R o ya tienen más experiencia. Estas
-son las diferentes maneras de contribuir: \* Abre un Pull Request (podes
-aprender cómo hacerlo con esta guía gratuita [¿Cómo contribuir a un
-proyecto en
-GitHub?](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
-\* Añade un nuevo
-[issue](https://github.com/pablotis/asombrosos-paquetes-r-latinoamerica/issues)
-con la información del paquete (necesitaras una cuenta de github). \*
-Envia un correo electrónico a <pablotisco@gmail.com>,
-<andrea.gomezv11@gmail.com> o <patricia.andrea.loto@gmail.com>.
+son las diferentes maneras de contribuir:
+
+- Abre un Pull Request (podes aprender cómo hacerlo con esta guía
+  gratuita [¿Cómo contribuir a un proyecto en
+  GitHub?](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+
+- Añade un nuevo
+  [issue](https://github.com/pablotis/asombrosos-paquetes-r-latinoamerica/issues)
+  con la información del paquete (necesitaras una cuenta de github).
+
+- Envia un correo electrónico a <pablotisco@gmail.com>,
+  <andrea.gomezv11@gmail.com> o <patricia.andrea.loto@gmail.com>.
 
 ## Licencia
 
