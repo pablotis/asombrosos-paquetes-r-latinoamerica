@@ -77,6 +77,7 @@ parrafo <- armar_parrafo(tematica_nro = 5)
 `r parrafo`
 
 
+
 ### Visualización de datos
 
 ```{r}

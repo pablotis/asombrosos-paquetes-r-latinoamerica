@@ -86,7 +86,7 @@
   src="https://github.com/musajajorge/mapsPERU/raw/main/imgs/hex_mapsPERU.png"
   width="30" height="30" />
   <a href="https://github.com/musajajorge/mapsPERU">mapsPERU</a> -
-  \[Perú :perú:\] - mapsPERU es un paquete que proporciona conjuntos de
+  \[Peru :peru:\] - mapsPERU es un paquete que proporciona conjuntos de
   datos con información de los centroides y límites geográficos de las
   regiones, departamentos, provincias y distritos del Perú. Autor/es:
   Jorge L. C. Musaja
@@ -116,8 +116,8 @@
 - <img
   src="https://github.com/musajajorge/CINE/raw/main/imgs/hex_emblema_CINE.png"
   width="30" height="30" />
-  <a href="https://github.com/musajajorge/CINE/">CINE</a> - \[Perú
-  :perú:\] - CINE es un paquete que utiliza la lematización de términos
+  <a href="https://github.com/musajajorge/CINE/">CINE</a> - \[Peru
+  :peru:\] - CINE es un paquete que utiliza la lematización de términos
   educativos para clasificar los programas educativos según la CINE
   (Clasificación Internacional Normalizada de la Educación) para el Perú
   publicada por el INEI (Instituto Nacional de Estadística e
