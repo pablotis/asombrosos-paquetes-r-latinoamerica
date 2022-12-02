@@ -114,6 +114,12 @@ desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de
   \[Argentina :argentina:\] - Un conjunto de herramientas para el
   análisis de la Región Urbana Metropolitana de Buenos Aires usando R.
   Autor/es: Antonio Vazquez Brust
+ - <img
+  src="https://github.com/luukvdmeer/sfnetworks/blob/main/man/figures/logo.png"
+  width="30" height="30" />
+  <a href="https://github.com/luukvdmeer/sfnetworks">sfnetworks</a> -
+  \[Ecuador :ecuador:\] - sfnetworks es un paquete R para el análisis de redes geoespaciales. Conecta las funcionalidades del paquete tidygraph para análisis de redes y el paquete sf para ciencia de datos espaciales.
+  Autor/es: Lorena Abad, Lucas van der Meer, Andrea Gilardi, Robin Lovelace
 
 ### Acceso y procesamiento de información sobre temáticas específicas
 
