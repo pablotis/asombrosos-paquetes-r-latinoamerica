@@ -26,8 +26,15 @@ b_paquetes <- read_sheet(url)
 ## Temáticas (en función del objetivo principal del paquete)
 
 ```{r}
+
+banderas <- data.frame(
+  pais = unique(b_paquetes$pais),
+  bandera = paste0(":", "U+1F1E6", ":")
+) |> 
+  filter(!is.na(pais))
+
 data <- b_paquetes |> 
-  mutate(pais = paste0(pais, " 🇨🇱")) |> 
+  mutate(pais = paste0(pais, " ", "u+1f1e6")) |> 
   select(tematica, icono, paquete, pais, link)
   
 data |> 
