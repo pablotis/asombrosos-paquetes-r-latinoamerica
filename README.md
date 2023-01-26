@@ -170,6 +170,16 @@ desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de
   \[Argentina :argentina:\] - Universo de paquetes para trabajar con
   herramientas y datos de Política Argentina desde R. Autor/es: Juan
   Pablo Ruiz Nicolini
+- <a href="https://github.com/anadiedrichs/frost">frost</a> -
+  \[Argentina :argentina:\] - Predicción de la temperatura mínima para
+  la previsión de heladas en la agricultura. Este paquete contiene una
+  recopilación de métodos empíricos utilizados por agricultores e
+  ingenieros agrónomos para predecir la temperatura mínima para detectar
+  un evento de helada.. Autor/es: Ana Laura Diedrichs
+- <a href="https://github.com/pachadotdev/tradepolicy">tradepolicy</a> -
+  \[Chile :chile:\] - Este paquete proporciona funciones para replicar
+  los resultados originales de Stata del libro An Advanced Guide to
+  Trade Policy Analysis.. Autor/es: Mauricio Vargas
 
 ### Tratamiento de datos
 
@@ -190,6 +200,21 @@ desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de
   Una extensión del ecosistema modeltime. Con este paquete vas a poder
   trabajar con modelado y visualización de múltiples series de tiempo.
   Autor/es: Rafael Zambrano y Karina Bartolome
+- <img
+  src="https://camo.githubusercontent.com/52411c3ab2079010da71b6749d45912eee7890207895dff78ebe91f239e91521/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f64617461736369656e63656865726f65732e636f6d2f696d672f626c6f672f66756e4d6f64656c696e675f6c6f676f5f68712e706e67"
+  width="30" height="30" />
+  <a href="http://pablo14.github.io/funModeling/">funModeling</a> -
+  \[Argentina :argentina:\] - Este paquete contiene un conjunto de
+  funciones relacionadas con el análisis exploratorio de datos, la
+  preparación de datos y el rendimiento de modelos.. Autor/es: Pablo
+  Casas
+- <img
+  src="https://github.com/melvidoni/rsppfp/blob/master/man/figs/logo.png"
+  width="30" height="30" />
+  <a href="https://github.com/melvidoni/rsppfp">rsppfp</a> - \[Argentina
+  :argentina:\] - Implementa diferentes algoritmos para transformar
+  grafos en el problema del camino más corto con caminos prohibidos
+  (SPPFP). Autor/es: Melina Vidoni
 
 ### Visualización de datos
 

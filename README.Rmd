@@ -70,6 +70,7 @@ parrafo <- armar_parrafo(tematica_nro = 2)
 parrafo <- armar_parrafo(tematica_nro = 3)
 ```
 
+
 `r parrafo`
 
 
