@@ -130,6 +130,11 @@ desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de
 ### Acceso y procesamiento de información sobre temáticas específicas
 
 - <img
+  src="https://agusnieto77.github.io/ACEP/logo.svg"
+  width="30" height="30" />
+  <a href="https://github.com/agusnieto77/ACEP.">ACEP</a> -
+  \[Argentina :argentina:\] Conjunto de funciones utiles para la deteccion y el analisis de eventos de protesta en corpus de textos periodisticos. Contiene tambien bases de datos con colecciones de notas y diccionarios de palabras conflictivas. Autor: [Agustín Nieto](https://github.com/agusnieto77)
+- <img
   src="https://github.com/AgRoMeteorologiaINTA/agromet/raw/master/man/figures/logo.png"
   width="30" height="30" />
   <a href="https://github.com/AgRoMeteorologiaINTA/agromet">agromet</a> -
