@@ -87,6 +87,13 @@ desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de
   análisis de redes y el paquete sf para ciencia de datos espaciales.
   Autor/es: Lorena Abad, Lucas van der Meer, Andrea Gilardi, Robin
   Lovelace
+- <img
+  src="https://github.com/ipeaGIT/censobr/blob/main/man/figures/logo.png"
+  width="30" height="30" />
+  <a href="https://ipeagit.github.io/censobr/">censobr</a> - \[Brazil
+  :brazil:\] - Es un paquete para descargar datos del Censo de Población
+  en Brasil. Autor/es: Rafael H. M. Pereira, Ipea - Institute for
+  Applied Economic Research
 
 ### Acceso y procesamiento de datos espaciales
 
@@ -185,6 +192,17 @@ desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de
   \[Chile :chile:\] - Este paquete proporciona funciones para replicar
   los resultados originales de Stata del libro An Advanced Guide to
   Trade Policy Analysis.. Autor/es: Mauricio Vargas
+- <img
+  src="https://github.com/ropensci/concstats/blob/master/man/figures/logo.png"
+  width="30" height="30" />
+  <a href="https://docs.ropensci.org/concstats/">concstats</a> -
+  \[Paraguay :paraguay:\] - El objetivo del paquete concstats es
+  proporcionar un conjunto de medidas alternativas y/o adicionales para
+  investigadores en ciencias sociales y profesionales en instituciones
+  relacionadas con la competencia de manera regular, con el fin de
+  determinar mejor la estructura de un mercado dado y, por lo tanto,
+  reducir la incertidumbre con respecto a una situación de mercado
+  específica.. Autor/es: Andreas Schneider
 
 ### Tratamiento de datos
 
