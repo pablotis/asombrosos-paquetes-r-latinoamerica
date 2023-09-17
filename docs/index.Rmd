@@ -16,7 +16,6 @@ library(reactable)
 library(htmltools)
 ```
 
-
 ```{r base}
 googlesheets4::gs4_deauth()
 url <- "https://docs.google.com/spreadsheets/d/1xcYY1RkvOxnJlANMPtzhbdrpUgtSdF7IoEtNzE6zRKk/edit?usp=sharing"
