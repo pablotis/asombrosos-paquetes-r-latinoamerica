@@ -31,6 +31,7 @@ b_paquetes <- read_sheet(url)
 
 Un lista de paquetes desarrollados en R por personas de Latinoamérica para el acceso, procesamiento, visualización y comunicación de datos.
 
+
 ## Un paquete está en esta lista porque:
 
 - Es de código abierto, licencia libre y disponible para su descarga.
@@ -42,10 +43,9 @@ Un lista de paquetes desarrollados en R por personas de Latinoamérica para el a
 ¿Tenés un paquete y lo querés sumar al repositorio? ¿Conocés un paquete desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de [contribuciones](#propuesta-de-paquetes), todas son más que bienvenidas. 
 
 <br>
+
+
 ## Temáticas (en función del objetivo principal del paquete)
-
-
-
 
 ### Acceso y Procesamiento de fuentes de datos oficiales
 
@@ -64,16 +64,13 @@ parrafo <- armar_parrafo(tematica_nro = 2)
 `r parrafo`
 
 
-
 ### Acceso y procesamiento de información sobre temáticas específicas
 
 ```{r}
 parrafo <- armar_parrafo(tematica_nro = 3)
 ```
 
-
 `r parrafo`
-
 
 
 ### Tratamiento de datos
@@ -85,7 +82,6 @@ parrafo <- armar_parrafo(tematica_nro = 4)
 `r parrafo`
 
 
-
 ### Modelado
 
 ```{r}
@@ -93,7 +89,6 @@ parrafo <- armar_parrafo(tematica_nro = 5)
 ```
 
 `r parrafo`
-
 
 
 ### Visualización de datos
@@ -105,7 +100,6 @@ parrafo <- armar_parrafo(tematica_nro = 6)
 `r parrafo`
 
 
-
 ### Conjunto de datos
 
 ```{r}
@@ -115,7 +109,6 @@ parrafo <- armar_parrafo(tematica_nro = 7)
 `r parrafo`
 
 
-
 ### Enseñanza | Pedagogía
 
 ```{r}
@@ -123,7 +116,6 @@ parrafo <- armar_parrafo(tematica_nro = 8)
 ```
 
 `r parrafo`
-
 
 
 ## Propuesta de paquetes

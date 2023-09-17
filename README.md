@@ -18,7 +18,9 @@ para el acceso, procesamiento, visualización y comunicación de datos.
 desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de
 [contribuciones](#propuesta-de-paquetes), todas son más que bienvenidas.
 
-<br> \## Temáticas (en función del objetivo principal del paquete)
+<br>
+
+## Temáticas (en función del objetivo principal del paquete)
 
 ### Acceso y Procesamiento de fuentes de datos oficiales
 
@@ -32,6 +34,13 @@ desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de
   :chile:\] - Proporciona un conjunto de funciones para realizar
   estadistica descriptiva e inferencia con el disenio complejo de la
   encuesta CASEN. Autor/es: M. Vargas, Kirill Müller
+- <img
+  src="https://github.com/ipeaGIT/censobr/blob/main/man/figures/logo.png"
+  width="30" height="30" />
+  <a href="https://ipeagit.github.io/censobr/">censobr</a> - \[Brazil
+  :brazil:\] - Es un paquete para descargar datos del Censo de Población
+  en Brasil. Autor/es: Rafael H. M. Pereira, Ipea - Institute for
+  Applied Economic Research
 - <img
   src="https://github.com/politicaargentina/data_warehouse/raw/master/hex/discursAr.png?raw=true"
   width="30" height="30" />
@@ -87,13 +96,6 @@ desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de
   análisis de redes y el paquete sf para ciencia de datos espaciales.
   Autor/es: Lorena Abad, Lucas van der Meer, Andrea Gilardi, Robin
   Lovelace
-- <img
-  src="https://github.com/ipeaGIT/censobr/blob/main/man/figures/logo.png"
-  width="30" height="30" />
-  <a href="https://ipeagit.github.io/censobr/">censobr</a> - \[Brazil
-  :brazil:\] - Es un paquete para descargar datos del Censo de Población
-  en Brasil. Autor/es: Rafael H. M. Pereira, Ipea - Institute for
-  Applied Economic Research
 
 ### Acceso y procesamiento de datos espaciales
 
@@ -137,11 +139,6 @@ desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de
 ### Acceso y procesamiento de información sobre temáticas específicas
 
 - <img
-  src="https://agusnieto77.github.io/ACEP/logo.svg"
-  width="30" height="30" />
-  <a href="https://github.com/agusnieto77/ACEP.">ACEP</a> -
-  \[Argentina :argentina:\] Conjunto de funciones utiles para la deteccion y el analisis de eventos de protesta en corpus de textos periodisticos. Contiene tambien bases de datos con colecciones de notas y diccionarios de palabras conflictivas. Autor/es: Agustín Nieto
-- <img
   src="https://github.com/AgRoMeteorologiaINTA/agromet/raw/master/man/figures/logo.png"
   width="30" height="30" />
   <a href="https://github.com/AgRoMeteorologiaINTA/agromet">agromet</a> -
@@ -163,6 +160,17 @@ desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de
   (Clasificación Internacional Normalizada de la Educación) para el Perú
   publicada por el INEI (Instituto Nacional de Estadística e
   Informática). Autor/es: Jorge L. C. Musaja
+- <img
+  src="https://github.com/ropensci/concstats/blob/master/man/figures/logo.png"
+  width="30" height="30" />
+  <a href="https://docs.ropensci.org/concstats/">concstats</a> -
+  \[Paraguay :paraguay:\] - El objetivo del paquete concstats es
+  proporcionar un conjunto de medidas alternativas y/o adicionales para
+  investigadores en ciencias sociales y profesionales en instituciones
+  relacionadas con la competencia de manera regular, con el fin de
+  determinar mejor la estructura de un mercado dado y, por lo tanto,
+  reducir la incertidumbre con respecto a una situación de mercado
+  específica.. Autor/es: Andreas Schneider
 - <img
   src="https://camo.githubusercontent.com/48a6848fa54967a8e4113fe6e55ecbd14b855de6c169ac75ed6c5fbfc1991ad8/68747470733a2f2f656c696f63616d702e6769746875622e696f2f6d6574522f7265666572656e63652f666967757265732f6c6f676f2e706e67"
   width="30" height="30" />
@@ -192,17 +200,6 @@ desarrollado en Latinoamérica y lo querés sumar? Chequeate la sección de
   \[Chile :chile:\] - Este paquete proporciona funciones para replicar
   los resultados originales de Stata del libro An Advanced Guide to
   Trade Policy Analysis.. Autor/es: Mauricio Vargas
-- <img
-  src="https://github.com/ropensci/concstats/blob/master/man/figures/logo.png"
-  width="30" height="30" />
-  <a href="https://docs.ropensci.org/concstats/">concstats</a> -
-  \[Paraguay :paraguay:\] - El objetivo del paquete concstats es
-  proporcionar un conjunto de medidas alternativas y/o adicionales para
-  investigadores en ciencias sociales y profesionales en instituciones
-  relacionadas con la competencia de manera regular, con el fin de
-  determinar mejor la estructura de un mercado dado y, por lo tanto,
-  reducir la incertidumbre con respecto a una situación de mercado
-  específica.. Autor/es: Andreas Schneider
 
 ### Tratamiento de datos
 
